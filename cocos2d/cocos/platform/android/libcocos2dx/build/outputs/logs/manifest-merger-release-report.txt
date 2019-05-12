@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:70-96
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:1-9:12
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:3:22-63
+application
+ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:5:5-7:19
+	android:allowBackup
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml:5:18-44
+uses-sdk
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		ADDED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml
+		INJECTED from H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\AndroidManifest.xml

@@ -1,0 +1,1131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>id</key>
+			<string>0</string>
+			<key>EnemyName</key>
+			<string>小怪兽1</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>注：此货小菜一</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>EnemyName</key>
+			<string>小怪兽2</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>注：较高移动速度</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>EnemyName</key>
+			<string>小怪兽3</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>注：死亡之后变成僵尸</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>EnemyName</key>
+			<string>小怪兽4</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>4</string>
+			<key>EnemyName</key>
+			<string>小怪兽5</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>5</string>
+			<key>EnemyName</key>
+			<string>小怪兽6</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>6</string>
+			<key>EnemyName</key>
+			<string>小怪兽7</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>7</string>
+			<key>EnemyName</key>
+			<string>小怪兽8</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>8</string>
+			<key>EnemyName</key>
+			<string>小怪兽9</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>9</string>
+			<key>EnemyName</key>
+			<string>小怪兽10</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>10</string>
+			<key>EnemyName</key>
+			<string>小怪兽11</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>11</string>
+			<key>EnemyName</key>
+			<string>小怪兽12</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>12</string>
+			<key>EnemyName</key>
+			<string>小怪兽13</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>13</string>
+			<key>EnemyName</key>
+			<string>小怪兽14</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>14</string>
+			<key>EnemyName</key>
+			<string>小怪兽15</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>15</string>
+			<key>EnemyName</key>
+			<string>小怪兽16</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>16</string>
+			<key>EnemyName</key>
+			<string>小怪兽17</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>17</string>
+			<key>EnemyName</key>
+			<string>小怪兽18</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>18</string>
+			<key>EnemyName</key>
+			<string>小怪兽19</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>19</string>
+			<key>EnemyName</key>
+			<string>小怪兽20</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>20</string>
+			<key>EnemyName</key>
+			<string>小怪兽21</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>21</string>
+			<key>EnemyName</key>
+			<string>小怪兽22</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>22</string>
+			<key>EnemyName</key>
+			<string>小怪兽23</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>23</string>
+			<key>EnemyName</key>
+			<string>小怪兽24</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>24</string>
+			<key>EnemyName</key>
+			<string>小怪兽25</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>25</string>
+			<key>EnemyName</key>
+			<string>小怪兽26</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>26</string>
+			<key>EnemyName</key>
+			<string>小怪兽27</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>27</string>
+			<key>EnemyName</key>
+			<string>小怪兽28</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>28</string>
+			<key>EnemyName</key>
+			<string>小怪兽29</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>29</string>
+			<key>EnemyName</key>
+			<string>小怪兽30</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>30</string>
+			<key>EnemyName</key>
+			<string>小怪兽31</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>31</string>
+			<key>EnemyName</key>
+			<string>小怪兽32</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>32</string>
+			<key>EnemyName</key>
+			<string>小怪兽33</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>33</string>
+			<key>EnemyName</key>
+			<string>小怪兽34</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>34</string>
+			<key>EnemyName</key>
+			<string>小怪兽35</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>35</string>
+			<key>EnemyName</key>
+			<string>小怪兽36</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>36</string>
+			<key>EnemyName</key>
+			<string>小怪兽37</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>37</string>
+			<key>EnemyName</key>
+			<string>小怪兽38</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>38</string>
+			<key>EnemyName</key>
+			<string>小怪兽39</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>39</string>
+			<key>EnemyName</key>
+			<string>小怪兽40</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>40</string>
+			<key>EnemyName</key>
+			<string>小怪兽41</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>41</string>
+			<key>EnemyName</key>
+			<string>小怪兽42</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>42</string>
+			<key>EnemyName</key>
+			<string>小怪兽43</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>43</string>
+			<key>EnemyName</key>
+			<string>小怪兽44</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>44</string>
+			<key>EnemyName</key>
+			<string>小怪兽45</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+				<dict>
+			<key>id</key>
+			<string>45</string>
+			<key>EnemyName</key>
+			<string>小怪兽46</string>
+			
+			<key>BloodValue</key>
+			<string>100</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>DefenseValue</key>
+			<string>100</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>100</string>
+			<key>MovementSpeed</key>
+			<string>100</string>
+			<key>LifeNumber</key>
+			<string>1</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>46</string>
+			<key>EnemyName</key>
+			<string>小怪兽47</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>47</string>
+			<key>EnemyName</key>
+			<string>小怪兽48</string>
+			
+			<key>BloodValue</key>
+			<string>200</string>
+			<key>AttackValue</key>
+			<string>200</string>
+			<key>DefenseValue</key>
+			<string>200</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>200</string>
+			<key>MovementSpeed</key>
+			<string>200</string>
+			<key>LifeNumber</key>
+			<string>2</string>
+			
+			<key>Note</key>
+			<string>有点厉害</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>100</string>
+			
+			<key>BloodValue</key>
+			<string>生命值：</string>
+			<key>AttackValue</key>
+			<string>攻击力：</string>
+			<key>DefenseValue</key>
+			<string>防御力：</string>
+			
+			<key>MagicDefenseValue</key>
+			<string>魔御力：</string>
+			<key>MovementSpeed</key>
+			<string>移动速度</string>
+			<key>LifeNumber</key>
+			<string>生命数：</string>
+			
+			<key>Note</key>
+			<string>小菜一碟</string>
+		</dict>
+	</array>
+</plist>

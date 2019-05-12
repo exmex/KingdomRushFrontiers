@@ -1,0 +1,3559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>DefenseFlag.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {40, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 348}, {40, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Cliff.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 605}, {342, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{-427, -202}</string>
+			<key>spriteSize</key>
+			<string>{342, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{1200, 1000}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{304, 0}, {342, 194}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 207}, {6, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -56}</string>
+			<key>spriteSize</key>
+			<string>{6, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 300}, {10, 6}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 204}, {6, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -53}</string>
+			<key>spriteSize</key>
+			<string>{6, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 308}, {10, 6}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 201}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -50}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 250}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{74, 199}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-36, -48}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 270}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 197}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-38, -46}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 290}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{71, 195}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-39, -44}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 210}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{70, 194}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-40, -43}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 260}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{70, 193}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-40, -42}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 240}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{69, 191}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-41, -40}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 280}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 190}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-43, -39}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 220}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 189}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-44, -38}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 230}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{65, 188}, {8, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{-45, -37}</string>
+			<key>spriteSize</key>
+			<string>{8, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 168}, {10, 8}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{64, 186}, {24, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-38, -44}</string>
+			<key>spriteSize</key>
+			<string>{24, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 770}, {28, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{62, 185}, {24, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-40, -42}</string>
+			<key>spriteSize</key>
+			<string>{24, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 822}, {26, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{61, 184}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-41, -40}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 848}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{59, 183}, {26, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-42, -38}</string>
+			<key>spriteSize</key>
+			<string>{26, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 874}, {26, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{58, 183}, {26, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-43, -37}</string>
+			<key>spriteSize</key>
+			<string>{26, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 644}, {20, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{56, 184}, {26, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-45, -37}</string>
+			<key>spriteSize</key>
+			<string>{26, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 850}, {18, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{54, 184}, {28, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-46, -36}</string>
+			<key>spriteSize</key>
+			<string>{28, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 560}, {16, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{53, 184}, {28, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-47, -36}</string>
+			<key>spriteSize</key>
+			<string>{28, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 590}, {16, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 184}, {28, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{-49, -35}</string>
+			<key>spriteSize</key>
+			<string>{28, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 386}, {14, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{49, 185}, {30, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-50, -35}</string>
+			<key>spriteSize</key>
+			<string>{30, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 178}, {12, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 185}, {36, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-48, -45}</string>
+			<key>spriteSize</key>
+			<string>{36, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 772}, {32, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 183}, {36, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-50, -42}</string>
+			<key>spriteSize</key>
+			<string>{36, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 560}, {30, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 182}, {38, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-50, -40}</string>
+			<key>spriteSize</key>
+			<string>{38, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 598}, {28, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{44, 182}, {38, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-51, -39}</string>
+			<key>spriteSize</key>
+			<string>{38, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 1006}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 181}, {38, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-53, -38}</string>
+			<key>spriteSize</key>
+			<string>{38, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 638}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{41, 181}, {38, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-54, -37}</string>
+			<key>spriteSize</key>
+			<string>{38, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 630}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 180}, {38, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-55, -36}</string>
+			<key>spriteSize</key>
+			<string>{38, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 668}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 180}, {38, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-56, -36}</string>
+			<key>spriteSize</key>
+			<string>{38, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 670}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{37, 180}, {40, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, -36}</string>
+			<key>spriteSize</key>
+			<string>{40, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 588}, {24, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{36, 180}, {38, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, -36}</string>
+			<key>spriteSize</key>
+			<string>{38, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 678}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 180}, {40, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-60, -37}</string>
+			<key>spriteSize</key>
+			<string>{40, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 810}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 180}, {40, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-62, -37}</string>
+			<key>spriteSize</key>
+			<string>{40, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{946, 636}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 181}, {56, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-55, -41}</string>
+			<key>spriteSize</key>
+			<string>{56, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 458}, {32, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{29, 182}, {58, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-56, -40}</string>
+			<key>spriteSize</key>
+			<string>{58, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 516}, {28, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 183}, {58, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, -39}</string>
+			<key>spriteSize</key>
+			<string>{58, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 528}, {24, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 183}, {58, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-58, -38}</string>
+			<key>spriteSize</key>
+			<string>{58, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 576}, {22, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 184}, {38, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-49, -38}</string>
+			<key>spriteSize</key>
+			<string>{38, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{786, 596}, {20, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 184}, {38, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-50, -37}</string>
+			<key>spriteSize</key>
+			<string>{38, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 604}, {18, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{43, 184}, {38, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-52, -36}</string>
+			<key>spriteSize</key>
+			<string>{38, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 464}, {16, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 184}, {38, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-53, -36}</string>
+			<key>spriteSize</key>
+			<string>{38, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 504}, {16, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 184}, {40, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-54, -36}</string>
+			<key>spriteSize</key>
+			<string>{40, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 422}, {16, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 185}, {40, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-55, -37}</string>
+			<key>spriteSize</key>
+			<string>{40, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 380}, {16, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{37, 184}, {40, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-57, -37}</string>
+			<key>spriteSize</key>
+			<string>{40, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 562}, {18, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{36, 183}, {40, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-58, -37}</string>
+			<key>spriteSize</key>
+			<string>{40, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{786, 554}, {20, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 182}, {42, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, -36}</string>
+			<key>spriteSize</key>
+			<string>{42, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 432}, {20, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 181}, {42, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-61, -36}</string>
+			<key>spriteSize</key>
+			<string>{42, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{786, 510}, {22, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 181}, {42, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-62, -35}</string>
+			<key>spriteSize</key>
+			<string>{42, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 476}, {20, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 181}, {40, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-63, -35}</string>
+			<key>spriteSize</key>
+			<string>{40, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 520}, {20, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 180}, {30, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-59, -35}</string>
+			<key>spriteSize</key>
+			<string>{30, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{772, 814}, {30, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{38, 180}, {30, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-61, -36}</string>
+			<key>spriteSize</key>
+			<string>{30, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 744}, {30, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{37, 180}, {28, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-63, -36}</string>
+			<key>spriteSize</key>
+			<string>{28, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{772, 762}, {28, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{36, 180}, {28, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-64, -36}</string>
+			<key>spriteSize</key>
+			<string>{28, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{772, 788}, {28, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 181}, {28, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-66, -37}</string>
+			<key>spriteSize</key>
+			<string>{28, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 796}, {28, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 180}, {30, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-67, -37}</string>
+			<key>spriteSize</key>
+			<string>{30, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 708}, {30, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 181}, {30, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-68, -37}</string>
+			<key>spriteSize</key>
+			<string>{30, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 718}, {30, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{29, 182}, {30, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-70, -38}</string>
+			<key>spriteSize</key>
+			<string>{30, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 736}, {30, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 182}, {30, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-72, -37}</string>
+			<key>spriteSize</key>
+			<string>{30, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{772, 838}, {30, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 184}, {28, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-73, -37}</string>
+			<key>spriteSize</key>
+			<string>{28, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 672}, {18, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 185}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-64, -35}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 126}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 186}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-65, -36}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 84}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{43, 187}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-67, -37}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 140}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 188}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-68, -38}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 112}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{41, 189}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-69, -39}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 154}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 190}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-70, -40}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 0}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{37, 189}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-72, -39}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 70}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{36, 189}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-73, -39}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 14}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 190}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-75, -40}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 56}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 190}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-77, -40}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 28}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 189}, {10, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-78, -39}</string>
+			<key>spriteSize</key>
+			<string>{10, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 42}, {10, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 188}, {8, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{-80, -38}</string>
+			<key>spriteSize</key>
+			<string>{8, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1014, 98}, {8, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0074.png</string>
+				<string>Stage12_Dragon_0075.png</string>
+				<string>Stage12_Dragon_0125.png</string>
+				<string>Stage12_Dragon_0124.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 170}, {128, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -67}</string>
+			<key>spriteSize</key>
+			<string>{128, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{716, 1308}, {128, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0077.png</string>
+				<string>Stage12_Dragon_0126.png</string>
+				<string>Stage12_Dragon_0127.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{636, 860}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0128.png</string>
+				<string>Stage12_Dragon_0129.png</string>
+				<string>Stage12_Dragon_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 165}, {126, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -64}</string>
+			<key>spriteSize</key>
+			<string>{126, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{608, 1084}, {126, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0081.png</string>
+				<string>Stage12_Dragon_0131.png</string>
+				<string>Stage12_Dragon_0130.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 165}, {126, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -64}</string>
+			<key>spriteSize</key>
+			<string>{126, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1254}, {110, 126}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0083.png</string>
+				<string>Stage12_Dragon_0133.png</string>
+				<string>Stage12_Dragon_0132.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 165}, {126, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -64}</string>
+			<key>spriteSize</key>
+			<string>{126, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 978}, {126, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0134.png</string>
+				<string>Stage12_Dragon_0085.png</string>
+				<string>Stage12_Dragon_0135.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 165}, {126, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -64}</string>
+			<key>spriteSize</key>
+			<string>{126, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 1162}, {110, 126}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0137.png</string>
+				<string>Stage12_Dragon_0136.png</string>
+				<string>Stage12_Dragon_0087.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 972}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0089.png</string>
+				<string>Stage12_Dragon_0138.png</string>
+				<string>Stage12_Dragon_0139.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 686}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0141.png</string>
+				<string>Stage12_Dragon_0140.png</string>
+				<string>Stage12_Dragon_0091.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 169}, {128, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -66}</string>
+			<key>spriteSize</key>
+			<string>{128, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{608, 1196}, {106, 128}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0093.png</string>
+				<string>Stage12_Dragon_0142.png</string>
+				<string>Stage12_Dragon_0143.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 169}, {128, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -66}</string>
+			<key>spriteSize</key>
+			<string>{128, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 1244}, {128, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0145.png</string>
+				<string>Stage12_Dragon_0144.png</string>
+				<string>Stage12_Dragon_0095.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 910}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0147.png</string>
+				<string>Stage12_Dragon_0146.png</string>
+				<string>Stage12_Dragon_0097.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 798}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0148.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{478, 1022}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0149.png</string>
+				<string>Stage12_Dragon_0100.png</string>
+				<string>Stage12_Dragon_0150.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 748}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0151.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1124}, {110, 128}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0102.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0111.png</string>
+				<string>Stage12_Dragon_0105.png</string>
+				<string>Stage12_Dragon_0103.png</string>
+				<string>Stage12_Dragon_0104.png</string>
+				<string>Stage12_Dragon_0113.png</string>
+				<string>Stage12_Dragon_0153.png</string>
+				<string>Stage12_Dragon_0107.png</string>
+				<string>Stage12_Dragon_0109.png</string>
+				<string>Stage12_Dragon_0106.png</string>
+				<string>Stage12_Dragon_0110.png</string>
+				<string>Stage12_Dragon_0108.png</string>
+				<string>Stage12_Dragon_0154.png</string>
+				<string>Stage12_Dragon_0112.png</string>
+				<string>Stage12_Dragon_0152.png</string>
+				<string>Stage12_Dragon_0114.png</string>
+				<string>Stage12_Dragon_0155.png</string>
+				<string>Stage12_Dragon_0115.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{766, 866}, {128, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0174.png</string>
+				<string>Stage12_Dragon_0175.png</string>
+				<string>Stage12_Dragon_0117.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 167}, {128, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -65}</string>
+			<key>spriteSize</key>
+			<string>{128, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{736, 1090}, {128, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0118.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0176.png</string>
+				<string>Stage12_Dragon_0177.png</string>
+				<string>Stage12_Dragon_0119.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 168}, {128, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -66}</string>
+			<key>spriteSize</key>
+			<string>{128, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{478, 1134}, {128, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0120.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0179.png</string>
+				<string>Stage12_Dragon_0178.png</string>
+				<string>Stage12_Dragon_0121.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 169}, {128, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -66}</string>
+			<key>spriteSize</key>
+			<string>{128, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{716, 1200}, {128, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0122.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0123.png</string>
+				<string>Stage12_Dragon_0181.png</string>
+				<string>Stage12_Dragon_0180.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 170}, {128, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -67}</string>
+			<key>spriteSize</key>
+			<string>{128, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{126, 1032}, {106, 128}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0156.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0157.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 149}, {130, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -52}</string>
+			<key>spriteSize</key>
+			<string>{130, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 850}, {130, 118}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0158.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0159.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 148}, {138, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -53}</string>
+			<key>spriteSize</key>
+			<string>{138, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{646, 510}, {138, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0160.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0161.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 102}, {160, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -27}</string>
+			<key>spriteSize</key>
+			<string>{160, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{646, 348}, {162, 160}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0162.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0163.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 69}, {168, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{168, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 178}, {180, 168}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0165.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 69}, {168, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{15, -3}</string>
+			<key>spriteSize</key>
+			<string>{168, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 178}, {180, 168}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0167.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 102}, {162, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -26}</string>
+			<key>spriteSize</key>
+			<string>{162, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 366}, {162, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0168.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0169.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 148}, {138, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -53}</string>
+			<key>spriteSize</key>
+			<string>{138, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{810, 458}, {138, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0170.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0171.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 149}, {130, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -55}</string>
+			<key>spriteSize</key>
+			<string>{130, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{482, 560}, {130, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0172.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0173.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 166}, {128, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -66}</string>
+			<key>spriteSize</key>
+			<string>{128, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{644, 634}, {128, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0182.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0183.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 155}, {160, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -66}</string>
+			<key>spriteSize</key>
+			<string>{160, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 560}, {134, 160}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0184.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0185.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 152}, {152, 126}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -59}</string>
+			<key>spriteSize</key>
+			<string>{152, 126}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 722}, {152, 126}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0186.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0187.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 150}, {146, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -44}</string>
+			<key>spriteSize</key>
+			<string>{146, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{132, 884}, {100, 146}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0188.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0189.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 133}, {152, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -25}</string>
+			<key>spriteSize</key>
+			<string>{152, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 970}, {96, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0190.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0191.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 126}, {164, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -20}</string>
+			<key>spriteSize</key>
+			<string>{164, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{808, 582}, {100, 164}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0192.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0193.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 93}, {168, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -5}</string>
+			<key>spriteSize</key>
+			<string>{168, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 528}, {136, 168}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0194.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0195.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 79}, {172, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 1}</string>
+			<key>spriteSize</key>
+			<string>{172, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 386}, {152, 172}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0196.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0197.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 70}, {168, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 5}</string>
+			<key>spriteSize</key>
+			<string>{168, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 222}, {168, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0198.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0199.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 107}, {166, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -13}</string>
+			<key>spriteSize</key>
+			<string>{166, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 222}, {124, 166}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0200.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0201.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 154}, {170, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -65}</string>
+			<key>spriteSize</key>
+			<string>{170, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 554}, {134, 170}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0202.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0203.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 152}, {162, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -58}</string>
+			<key>spriteSize</key>
+			<string>{162, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 390}, {124, 162}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0204.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0205.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 150}, {156, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -44}</string>
+			<key>spriteSize</key>
+			<string>{156, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 726}, {100, 156}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0206.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0207.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 132}, {160, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -25}</string>
+			<key>spriteSize</key>
+			<string>{160, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 698}, {98, 160}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0208.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0209.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 125}, {172, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -23}</string>
+			<key>spriteSize</key>
+			<string>{172, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{810, 348}, {172, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0210.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0211.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 93}, {178, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -9}</string>
+			<key>spriteSize</key>
+			<string>{178, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{482, 380}, {144, 178}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0212.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0213.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 79}, {182, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -3}</string>
+			<key>spriteSize</key>
+			<string>{182, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{484, 196}, {160, 182}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_0214.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0215.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 70}, {178, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 2}</string>
+			<key>spriteSize</key>
+			<string>{178, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{304, 196}, {178, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_0216.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_0217.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 106}, {176, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -15}</string>
+			<key>spriteSize</key>
+			<string>{176, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{882, 0}, {130, 176}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_Shadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 8}, {64, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 36}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 366}, {20, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireBurn_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_fireBurn_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {120, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{120, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 942}, {88, 120}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireBurn_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_fireBurn_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 11}, {120, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{120, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{944, 1090}, {80, 120}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireBurn_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_fireBurn_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {122, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{122, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 1212}, {82, 122}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireBurn_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_fireBurn_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {120, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{120, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 1186}, {86, 120}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireBurn_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_fireBurn_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {120, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{120, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 1064}, {88, 120}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 7}, {56, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 884}, {62, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 8}, {56, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{56, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 902}, {60, 56}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 8}, {54, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{54, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{958, 948}, {60, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {54, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 880}, {54, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {54, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 886}, {54, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {52, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{52, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{972, 742}, {52, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 1}, {50, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{50, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 676}, {50, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {50, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 610}, {50, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {50, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 960}, {50, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {48, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 1016}, {48, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {46, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSize</key>
+			<string>{46, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 1080}, {46, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {46, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{46, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 1142}, {46, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 14}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 710}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 760}, {44, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 16}, {42, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{42, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 802}, {42, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 11}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 750}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 11}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 698}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 12}, {40, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 404}, {40, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 454}, {38, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 12}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{984, 506}, {38, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 12}, {36, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 582}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 13}, {34, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 630}, {34, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 14}, {34, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 848}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {32, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 726}, {32, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fireDecal_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 22}, {30, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{30, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 970}, {30, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fire_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 30}, {22, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -7}</string>
+			<key>spriteSize</key>
+			<string>{22, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 850}, {26, 22}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fire_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 20}, {30, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{30, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 636}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fire_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 23}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 852}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_fire_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 18}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 810}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fire_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 20}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -6}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 556}, {44, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_fire_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 15}, {62, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -6}</string>
+			<key>spriteSize</key>
+			<string>{62, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 952}, {54, 62}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0003.png</string>
+				<string>Stage12_Dragon_towerFire_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 14}, {84, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -5}</string>
+			<key>spriteSize</key>
+			<string>{84, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{948, 1004}, {74, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0005.png</string>
+				<string>Stage12_Dragon_towerFire_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {82, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{82, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 1196}, {72, 82}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0009.png</string>
+				<string>Stage12_Dragon_towerFire_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {82, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{82, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{846, 1280}, {82, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0012.png</string>
+				<string>Stage12_Dragon_towerFire_0011.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 14}, {84, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{84, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{868, 1024}, {74, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0014.png</string>
+				<string>Stage12_Dragon_towerFire_0015.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {82, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{82, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{930, 1336}, {82, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0018.png</string>
+				<string>Stage12_Dragon_towerFire_0017.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 15}, {84, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{84, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 1110}, {72, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0020.png</string>
+				<string>Stage12_Dragon_towerFire_0021.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {74, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{74, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{846, 1354}, {74, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0023.png</string>
+				<string>Stage12_Dragon_towerFire_0024.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 13}, {74, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{74, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 1410}, {74, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0027.png</string>
+				<string>Stage12_Dragon_towerFire_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 11}, {76, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 5}</string>
+			<key>spriteSize</key>
+			<string>{76, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 678}, {60, 76}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0029.png</string>
+				<string>Stage12_Dragon_towerFire_0030.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 10}, {74, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 6}</string>
+			<key>spriteSize</key>
+			<string>{74, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{904, 756}, {60, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0032.png</string>
+				<string>Stage12_Dragon_towerFire_0033.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 9}, {70, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 9}</string>
+			<key>spriteSize</key>
+			<string>{70, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{966, 808}, {56, 70}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Dragon_towerFire_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage12_Dragon_towerFire_0036.png</string>
+				<string>Stage12_Dragon_towerFire_0035.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 7}, {68, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{68, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{904, 832}, {54, 68}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Tunel1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {176, 232}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{176, 232}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 236}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 0}, {232, 176}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage12_Tunel2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {302, 220}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{302, 220}</string>
+			<key>spriteSourceSize</key>
+			<string>{304, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {302, 220}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>alert_creep_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 860}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{282, 1096}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 978}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 748}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HD - sprite_level12.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>textureFileName</key>
+		<string>sprite_level12-hd.png</string>
+		<key>version</key>
+		<string>1.6.0</string>
+	</dict>
+</dict>
+</plist>

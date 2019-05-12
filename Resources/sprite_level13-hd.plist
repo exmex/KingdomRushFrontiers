@@ -1,0 +1,5562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Cave_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {80, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{80, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1066, 164}, {80, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Cave_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{37, 22}, {12, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 8}</string>
+			<key>spriteSize</key>
+			<string>{12, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 676}, {12, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Cave_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 33}, {12, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -3}</string>
+			<key>spriteSize</key>
+			<string>{12, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{224, 682}, {12, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Cave_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{49, 35}, {12, 4}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -5}</string>
+			<key>spriteSize</key>
+			<string>{12, 4}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{224, 676}, {12, 4}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0089.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 59}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -24}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 418}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{29, 58}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -23}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1018, 404}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{29, 56}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -22}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{576, 630}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 55}, {52, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -22}</string>
+			<key>spriteSize</key>
+			<string>{52, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{336, 482}, {52, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 56}, {52, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -22}</string>
+			<key>spriteSize</key>
+			<string>{52, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 630}, {52, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 61}, {52, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -25}</string>
+			<key>spriteSize</key>
+			<string>{52, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1112, 438}, {52, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 59}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -24}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1126, 976}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 58}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -23}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1018, 976}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 58}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -23}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1028, 350}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0015.png</string>
+				<string>DwarfChampion_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 58}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -23}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1194, 100}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0017.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 58}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -23}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1072, 976}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{44, 58}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -23}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{630, 630}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 59}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -24}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1092, 288}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 59}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -24}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1072, 394}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0024.png</string>
+				<string>DwarfChampion_0023.png</string>
+				<string>DwarfChampion_0022.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 60}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -24}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1324, 42}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 59}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -24}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 632}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0028.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 57}, {54, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -23}</string>
+			<key>spriteSize</key>
+			<string>{54, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 482}, {54, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0030.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 46}, {56, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -17}</string>
+			<key>spriteSize</key>
+			<string>{56, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 620}, {56, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0032.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 43}, {58, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -16}</string>
+			<key>spriteSize</key>
+			<string>{58, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1214, 0}, {58, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0034.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 42}, {60, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -15}</string>
+			<key>spriteSize</key>
+			<string>{60, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1006, 228}, {60, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0036.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 38}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -13}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1000, 164}, {64, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0038.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 41}, {62, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -15}</string>
+			<key>spriteSize</key>
+			<string>{62, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1070, 100}, {62, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0040.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 39}, {64, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -14}</string>
+			<key>spriteSize</key>
+			<string>{64, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 354}, {64, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0042.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 36}, {66, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -12}</string>
+			<key>spriteSize</key>
+			<string>{66, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 100}, {66, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0044.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 32}, {70, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -10}</string>
+			<key>spriteSize</key>
+			<string>{70, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 838}, {70, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0046.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 32}, {70, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -10}</string>
+			<key>spriteSize</key>
+			<string>{70, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{982, 838}, {70, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0048.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 33}, {70, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -11}</string>
+			<key>spriteSize</key>
+			<string>{70, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 930}, {70, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0050.png</string>
+				<string>DwarfChampion_0052.png</string>
+				<string>DwarfChampion_0051.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 33}, {70, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -11}</string>
+			<key>spriteSize</key>
+			<string>{70, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 838}, {70, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0054.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 44}, {76, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -22}</string>
+			<key>spriteSize</key>
+			<string>{76, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1000, 530}, {76, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0056.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 46}, {66, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -23}</string>
+			<key>spriteSize</key>
+			<string>{66, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1128, 900}, {66, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0058.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 47}, {64, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -23}</string>
+			<key>spriteSize</key>
+			<string>{64, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 0}, {64, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0060.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {64, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -28}</string>
+			<key>spriteSize</key>
+			<string>{64, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 618}, {64, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0062.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {64, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -28}</string>
+			<key>spriteSize</key>
+			<string>{64, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{928, 618}, {64, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0064.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {64, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -28}</string>
+			<key>spriteSize</key>
+			<string>{64, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 620}, {64, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0066.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{17, -28}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1134, 100}, {58, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0068.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {58, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{17, -28}</string>
+			<key>spriteSize</key>
+			<string>{58, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 462}, {58, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0070.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 58}, {36, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -25}</string>
+			<key>spriteSize</key>
+			<string>{36, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 482}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0072.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 59}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -24}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 418}, {52, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 5}, {54, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{540, 188}, {54, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 0}, {50, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 5}, {48, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{794, 0}, {48, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 5}, {48, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 844}, {48, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 0}, {50, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 188}, {50, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{702, 188}, {50, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{742, 0}, {50, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{33, 5}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{584, 0}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{33, 5}, {52, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{52, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 188}, {52, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {54, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{670, 376}, {54, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 6}, {56, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{56, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{482, 188}, {56, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 36}, {58, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -14}</string>
+			<key>spriteSize</key>
+			<string>{58, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{986, 766}, {58, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0088.png</string>
+				<string>DwarfChampion_0087.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 53}, {42, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -21}</string>
+			<key>spriteSize</key>
+			<string>{42, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 482}, {42, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 58}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -23}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1072, 438}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 58}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -23}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1148, 154}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 61}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -25}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1324, 0}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 76}, {42, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -36}</string>
+			<key>spriteSize</key>
+			<string>{42, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 66}, {42, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfChampion_0095.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 56}, {48, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -25}</string>
+			<key>spriteSize</key>
+			<string>{48, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 624}, {48, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 81}, {44, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -38}</string>
+			<key>spriteSize</key>
+			<string>{44, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{152, 998}, {44, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 21}, {64, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1156, 680}, {64, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 17}, {82, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{82, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{384, 632}, {82, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 13}, {98, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{98, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 292}, {98, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 8}, {116, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{116, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 288}, {116, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 7}, {120, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{120, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1092, 0}, {120, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 6}, {124, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{124, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{848, 288}, {124, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 5}, {128, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{128, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1054, 832}, {128, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {130, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{130, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 908}, {130, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 4}, {134, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{134, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 774}, {134, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {138, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{138, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 674}, {138, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfChampion_Ring_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {144, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{144, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{484, 942}, {144, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfHall_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfHall_0007.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {118, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{136, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 288}, {118, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfHall_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfHall_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {118, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{136, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{598, 100}, {118, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfHall_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfHall_0005.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {118, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{136, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{718, 100}, {118, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfHall_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {118, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{136, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{880, 530}, {118, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfRiflemen.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {112, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -0}</string>
+			<key>spriteSize</key>
+			<string>{112, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 96}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 676}, {112, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfRiflemenTop.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 23}, {90, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 9}</string>
+			<key>spriteSize</key>
+			<string>{90, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 96}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{414, 154}, {90, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0002.png</string>
+				<string>DwarfShooter_0121.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 8}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1282, 772}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 8}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1290, 260}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 9}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1366, 0}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0008.png</string>
+				<string>DwarfShooter_0012.png</string>
+				<string>DwarfShooter_0009.png</string>
+				<string>DwarfShooter_0013.png</string>
+				<string>DwarfShooter_0011.png</string>
+				<string>DwarfShooter_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 9}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1340, 84}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0015.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 7}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{546, 288}, {26, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0017.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 10}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1340, 308}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0019.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {30, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{30, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1210, 382}, {30, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0021.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 9}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 382}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0023.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 8}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -3}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1260, 270}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1268, 414}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 8}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1248, 302}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1320, 158}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 8}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1266, 542}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0033.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 8}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1324, 126}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0036.png</string>
+				<string>DwarfShooter_0039.png</string>
+				<string>DwarfShooter_0035.png</string>
+				<string>DwarfShooter_0038.png</string>
+				<string>DwarfShooter_0037.png</string>
+				<string>DwarfShooter_0040.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 8}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 42}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0042.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 9}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1244, 340}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0044.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -5}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1338, 278}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0046.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 10}, {30, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -4}</string>
+			<key>spriteSize</key>
+			<string>{30, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1306, 292}, {30, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0048.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 9}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1272, 228}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0050.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 10}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1366, 74}, {26, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 8}, {24, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{24, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1266, 510}, {24, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1296, 126}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0055.png</string>
+				<string>DwarfShooter_0057.png</string>
+				<string>DwarfShooter_0054.png</string>
+				<string>DwarfShooter_0056.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 8}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1210, 350}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0059.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 10}, {24, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSize</key>
+			<string>{24, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1390, 32}, {24, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0061.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {22, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -6}</string>
+			<key>spriteSize</key>
+			<string>{22, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1392, 0}, {22, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0063.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 9}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1290, 184}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0065.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1096, 604}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0067.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {32, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -1}</string>
+			<key>spriteSize</key>
+			<string>{32, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1192, 270}, {32, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0069.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1244, 598}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0075.png</string>
+				<string>DwarfShooter_0072.png</string>
+				<string>DwarfShooter_0071.png</string>
+				<string>DwarfShooter_0074.png</string>
+				<string>DwarfShooter_0073.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -2}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1244, 634}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0077.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 10}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -4}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1348, 158}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 13}, {30, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -6}</string>
+			<key>spriteSize</key>
+			<string>{30, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 998}, {30, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0081.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 11}, {30, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{30, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1318, 248}, {30, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0083.png</string>
+				<string>DwarfShooter_0085.png</string>
+				<string>DwarfShooter_0084.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {30, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{30, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{198, 998}, {30, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 8}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1214, 308}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0091.png</string>
+				<string>DwarfShooter_0089.png</string>
+				<string>DwarfShooter_0088.png</string>
+				<string>DwarfShooter_0090.png</string>
+				<string>DwarfShooter_0120.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1278, 302}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0093.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1272, 372}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0095.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {26, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{26, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 998}, {26, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0097.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 10}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1350, 116}, {26, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0099.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 4}, {28, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{28, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1212, 752}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0100.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0101.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 6}, {30, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -2}</string>
+			<key>spriteSize</key>
+			<string>{30, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1278, 738}, {30, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0102.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0103.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 7}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1248, 778}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0105.png</string>
+				<string>DwarfShooter_0107.png</string>
+				<string>DwarfShooter_0106.png</string>
+				<string>DwarfShooter_0109.png</string>
+				<string>DwarfShooter_0108.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 8}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1226, 270}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0110.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0111.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 11}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -5}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1330, 190}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0113.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 14}, {28, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -6}</string>
+			<key>spriteSize</key>
+			<string>{28, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 998}, {28, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0114.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0115.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {28, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -5}</string>
+			<key>spriteSize</key>
+			<string>{28, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 998}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfShooter_0117.png</string>
+				<string>DwarfShooter_0119.png</string>
+				<string>DwarfShooter_0118.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 13}, {28, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -6}</string>
+			<key>spriteSize</key>
+			<string>{28, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{262, 998}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfShooter_Barril.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {20, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{948, 1000}, {20, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 10}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1212, 788}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 10}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1262, 704}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 8}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1240, 474}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 7}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1178, 312}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 9}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1192, 716}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 12}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{538, 344}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 9}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1222, 674}, {32, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 8}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1156, 716}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 8}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1228, 518}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 6}, {46, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 1}</string>
+			<key>spriteSize</key>
+			<string>{46, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1078, 524}, {46, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 10}, {38, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -1}</string>
+			<key>spriteSize</key>
+			<string>{38, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1226, 562}, {38, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 10}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1202, 602}, {40, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 13}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1274, 334}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 13}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1302, 216}, {26, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0022.png</string>
+				<string>DwarfWarrior_0055.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 10}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1256, 670}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0024.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 8}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1078, 564}, {44, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 6}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 1}</string>
+			<key>spriteSize</key>
+			<string>{48, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1224, 60}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0028.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 2}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1140, 226}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0030.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 2}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1078, 350}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0032.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 3}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1142, 270}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0034.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1246, 142}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0036.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 2}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1292, 84}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0038.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1274, 0}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0040.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1240, 186}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0042.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1122, 394}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0044.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 100}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0046.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1128, 332}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0048.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1274, 42}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0050.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1196, 144}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0052.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 4}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 2}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 198}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0054.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 8}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1198, 638}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 10}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 744}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1226, 710}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 9}, {36, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{888, 66}, {36, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 11}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -3}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1172, 374}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 22}, {36, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -10}</string>
+			<key>spriteSize</key>
+			<string>{36, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1302, 334}, {36, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0062.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 28}, {36, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -12}</string>
+			<key>spriteSize</key>
+			<string>{36, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 998}, {36, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_0064.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 26}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -11}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 998}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_Aura_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 4}, {90, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{90, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 154}, {90, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 4}, {92, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{92, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 154}, {92, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 3}, {94, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{94, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1102, 644}, {94, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_Aura_0019.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 3}, {96, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1126, 64}, {96, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {98, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 64}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {100, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{100, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1124, 564}, {100, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {100, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{100, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1166, 436}, {100, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 7}, {74, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 998}, {74, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 6}, {76, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{76, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1300, 366}, {76, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {78, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{78, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1276, 476}, {78, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_Aura_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {80, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{80, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1190, 240}, {80, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {82, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{82, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 344}, {82, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_Aura_0028.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 5}, {84, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{84, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{284, 344}, {84, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>DwarfWarrior_Aura_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 5}, {86, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{86, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 344}, {86, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 5}, {88, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{88, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 254}, {88, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 4}, {92, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{92, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 154}, {92, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 4}, {94, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{94, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1060, 700}, {94, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 3}, {98, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{98, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1026, 64}, {98, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {100, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{100, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1126, 524}, {100, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {100, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{100, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1138, 480}, {100, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 7}, {74, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{74, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{76, 998}, {74, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 6}, {76, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{76, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1296, 404}, {76, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {78, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{78, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1276, 446}, {78, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {82, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{82, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 344}, {82, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Aura_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 5}, {88, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{88, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 254}, {88, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 1000}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 12}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 11}, {22, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{22, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{418, 998}, {22, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 20}, {22, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 676}, {22, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 19}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1000, 600}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 18}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 1000}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 17}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1048, 600}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 16}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{970, 1000}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 16}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1024, 600}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1016, 746}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 14}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{992, 746}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {22, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{22, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 746}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 12}, {22, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 5}</string>
+			<key>spriteSize</key>
+			<string>{22, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{968, 746}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 11}, {22, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 6}</string>
+			<key>spriteSize</key>
+			<string>{22, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{944, 746}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 15}, {16, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 5}</string>
+			<key>spriteSize</key>
+			<string>{16, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{206, 676}, {16, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 14}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 13}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{546, 322}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 12}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {14, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 3}</string>
+			<key>spriteSize</key>
+			<string>{14, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1040, 746}, {14, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 15}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{958, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DwarfWarrior_Bubbles_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 14}, {22, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{22, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{886, 908}, {22, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_Riff.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{780, 532}, {224, 186}}</string>
+			<key>spriteOffset</key>
+			<string>{292, -125}</string>
+			<key>spriteSize</key>
+			<string>{224, 186}</string>
+			<key>spriteSourceSize</key>
+			<string>{1200, 1000}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {224, 186}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_Tunnel.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 4}, {194, 186}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 5}</string>
+			<key>spriteSize</key>
+			<string>{194, 186}</string>
+			<key>spriteSourceSize</key>
+			<string>{204, 204}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 188}, {194, 186}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{49, 41}, {164, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -12}</string>
+			<key>spriteSize</key>
+			<string>{164, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{176, 690}, {164, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 37}, {168, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -9}</string>
+			<key>spriteSize</key>
+			<string>{168, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 844}, {168, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 34}, {172, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -6}</string>
+			<key>spriteSize</key>
+			<string>{172, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 844}, {172, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 30}, {174, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -2}</string>
+			<key>spriteSize</key>
+			<string>{174, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 690}, {174, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 27}, {176, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{176, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 0}, {176, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 24}, {178, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 4}</string>
+			<key>spriteSize</key>
+			<string>{178, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 0}, {178, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 20}, {178, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 7}</string>
+			<key>spriteSize</key>
+			<string>{178, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 188}, {178, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 17}, {180, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 10}</string>
+			<key>spriteSize</key>
+			<string>{180, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 534}, {180, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0018.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 13}, {180, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 14}</string>
+			<key>spriteSize</key>
+			<string>{180, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{110, 376}, {180, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 10}, {108, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 16}</string>
+			<key>spriteSize</key>
+			<string>{108, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 376}, {108, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 27}, {200, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 6}</string>
+			<key>spriteSize</key>
+			<string>{200, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 532}, {200, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{41, 54}, {104, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 188}, {104, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{39, 51}, {108, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, 4}</string>
+			<key>spriteSize</key>
+			<string>{108, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{560, 376}, {108, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{38, 48}, {114, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, 7}</string>
+			<key>spriteSize</key>
+			<string>{114, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{518, 530}, {114, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 45}, {120, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, 10}</string>
+			<key>spriteSize</key>
+			<string>{120, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{438, 376}, {120, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 47}, {126, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, 8}</string>
+			<key>spriteSize</key>
+			<string>{126, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{482, 676}, {126, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{31, 58}, {132, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -4}</string>
+			<key>spriteSize</key>
+			<string>{132, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{384, 530}, {132, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 69}, {138, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -15}</string>
+			<key>spriteSize</key>
+			<string>{138, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 676}, {138, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 78}, {144, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-32, -26}</string>
+			<key>spriteSize</key>
+			<string>{144, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 376}, {144, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 86}, {146, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -28}</string>
+			<key>spriteSize</key>
+			<string>{146, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{634, 530}, {146, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 94}, {148, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -38}</string>
+			<key>spriteSize</key>
+			<string>{148, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 844}, {148, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{18, 102}, {152, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -41}</string>
+			<key>spriteSize</key>
+			<string>{152, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{574, 288}, {152, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 116}, {154, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -47}</string>
+			<key>spriteSize</key>
+			<string>{154, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 766}, {154, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 124}, {162, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -51}</string>
+			<key>spriteSize</key>
+			<string>{162, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{906, 100}, {162, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 123}, {164, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -52}</string>
+			<key>spriteSize</key>
+			<string>{164, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1046, 764}, {164, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 126}, {168, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -55}</string>
+			<key>spriteSize</key>
+			<string>{168, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{524, 776}, {168, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 126}, {172, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -54}</string>
+			<key>spriteSize</key>
+			<string>{172, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 188}, {172, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 128}, {174, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -54}</string>
+			<key>spriteSize</key>
+			<string>{174, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1238, 964}, {174, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 126}, {178, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -54}</string>
+			<key>spriteSize</key>
+			<string>{178, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1196, 898}, {178, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 128}, {180, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -56}</string>
+			<key>spriteSize</key>
+			<string>{180, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 778}, {180, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 129}, {180, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -57}</string>
+			<key>spriteSize</key>
+			<string>{180, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1184, 832}, {180, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 130}, {180, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -57}</string>
+			<key>spriteSize</key>
+			<string>{180, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 0}, {180, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage13_TunnelOpen_Stones_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage13_TunnelOpen_Stones_0030.png</string>
+				<string>Stage13_TunnelOpen_Stones_0033.png</string>
+				<string>Stage13_TunnelOpen_Stones_0032.png</string>
+				<string>Stage13_TunnelOpen_Stones_0029.png</string>
+				<string>Stage13_TunnelOpen_Stones_0024.png</string>
+				<string>Stage13_TunnelOpen_Stones_0026.png</string>
+				<string>Stage13_TunnelOpen_Stones_0028.png</string>
+				<string>Stage13_TunnelOpen_Stones_0031.png</string>
+				<string>Stage13_TunnelOpen_Stones_0027.png</string>
+				<string>Stage13_TunnelOpen_Stones_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 130}, {180, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -57}</string>
+			<key>spriteSize</key>
+			<string>{180, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 208}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 466}, {180, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_portraits_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {84, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{84, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{726, 376}, {84, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 37}, {64, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -17}</string>
+			<key>spriteSize</key>
+			<string>{64, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1072, 482}, {64, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 18}, {70, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{70, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 942}, {70, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>hero_reinforce_rocks_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 9}, {70, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{70, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{928, 164}, {70, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>hero_reinforce_rocks_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 6}, {70, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{70, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 226}, {70, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>hero_reinforce_rocks_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 5}, {70, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSize</key>
+			<string>{70, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 228}, {70, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>hero_reinforce_rocks_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 6}, {72, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 5}</string>
+			<key>spriteSize</key>
+			<string>{72, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{756, 470}, {72, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 11}, {68, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{68, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 292}, {68, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 11}, {68, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{68, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 624}, {68, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 476}, {66, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 14}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{552, 476}, {66, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 20}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{484, 476}, {66, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 20}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 944}, {66, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 26}, {66, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -12}</string>
+			<key>spriteSize</key>
+			<string>{66, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{620, 476}, {66, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hero_reinforce_rocks_decal.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {70, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{70, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 36}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1130, 602}, {70, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>portraits_hero_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 10}, {56, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{56, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1180, 968}, {56, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>portraits_sc_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 12}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{976, 350}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>portraits_towers_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 18}, {34, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1060, 618}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>portraits_towers_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 21}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1060, 660}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{826, 934}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 934}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{630, 934}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{724, 676}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{782, 530}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_disabled_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{740, 844}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_disabled_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{812, 376}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_disabled_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{822, 676}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_disabled_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{544, 844}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>special_icons_disabled_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{96, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 844}, {96, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HD - sprite_level13.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>sprite_level13-hd.png</string>
+		<key>version</key>
+		<string>1.6.0</string>
+	</dict>
+</dict>
+</plist>

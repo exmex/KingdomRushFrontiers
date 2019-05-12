@@ -1,0 +1,4976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>AmazonGirl_healFx_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 25}, {14, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -9}</string>
+			<key>spriteSize</key>
+			<string>{14, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 212}, {14, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonGirl_healFx_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 24}, {14, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -8}</string>
+			<key>spriteSize</key>
+			<string>{14, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 194}, {14, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonGirl_healFx_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 22}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -6}</string>
+			<key>spriteSize</key>
+			<string>{16, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 638}, {16, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonGirl_healFx_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 21}, {26, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -8}</string>
+			<key>spriteSize</key>
+			<string>{26, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{966, 596}, {22, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 19}, {26, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -7}</string>
+			<key>spriteSize</key>
+			<string>{26, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{932, 848}, {26, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonGirl_healFx_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 18}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -8}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 820}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 17}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{902, 826}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 15}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{970, 836}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 14}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{948, 762}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 12}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 796}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 11}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{982, 778}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 9}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 782}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 8}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{600, 268}, {40, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 7}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{776, 550}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonGirl_healFx_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 6}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 682}, {38, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 11}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 782}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 10}, {26, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{26, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{874, 776}, {32, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonGirl_healFx_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 9}, {26, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{36, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{908, 798}, {30, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonTower_0007.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{660, 296}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{608, 150}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{714, 150}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 0}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{624, 464}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonTower_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {108, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{108, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{638, 0}, {104, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0039.png</string>
+				<string>AmazonianGirl_0007.png</string>
+				<string>AmazonianGirl_0008.png</string>
+				<string>AmazonianGirl_0021.png</string>
+				<string>AmazonianGirl_0022.png</string>
+				<string>AmazonianGirl_0038.png</string>
+				<string>AmazonianGirl_0023.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 24}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 710}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 25}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 744}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 23}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 540}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 22}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 642}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 23}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 574}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 27}, {32, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{914, 744}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{47, 24}, {30, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{30, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{840, 764}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 24}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{956, 728}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 24}, {30, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{30, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{880, 744}, {32, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0015.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 25}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 710}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0017.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 26}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 732}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0020.png</string>
+				<string>AmazonianGirl_0019.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 25}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 608}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 24}, {84, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -7}</string>
+			<key>spriteSize</key>
+			<string>{84, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{718, 406}, {84, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 9}, {86, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 9}</string>
+			<key>spriteSize</key>
+			<string>{86, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{670, 938}, {48, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 18}, {64, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{19, -0}</string>
+			<key>spriteSize</key>
+			<string>{64, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{532, 948}, {48, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 25}, {86, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -9}</string>
+			<key>spriteSize</key>
+			<string>{86, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 938}, {52, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0033.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 26}, {84, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -8}</string>
+			<key>spriteSize</key>
+			<string>{84, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{590, 414}, {84, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>AmazonianGirl_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0035.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 25}, {64, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, 1}</string>
+			<key>spriteSize</key>
+			<string>{64, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 948}, {32, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0037.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 25}, {46, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 1}</string>
+			<key>spriteSize</key>
+			<string>{46, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 250}, {32, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 27}, {28, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{28, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{942, 790}, {30, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 26}, {32, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{32, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 676}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 28}, {30, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -0}</string>
+			<key>spriteSize</key>
+			<string>{30, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 590}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 38}, {32, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -8}</string>
+			<key>spriteSize</key>
+			<string>{32, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 664}, {24, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>AmazonianGirl_0045.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 44}, {32, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -11}</string>
+			<key>spriteSize</key>
+			<string>{32, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 574}, {18, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>AmazonianGirl_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 41}, {32, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -9}</string>
+			<key>spriteSize</key>
+			<string>{32, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{128, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{908, 776}, {32, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>DefenseFlag.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {40, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 406}, {40, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage4_Trees_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 12}, {150, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -5}</string>
+			<key>spriteSize</key>
+			<string>{150, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{598, 786}, {110, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage4_Trees_0003.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 10}, {148, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{148, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{426, 0}, {112, 148}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage4_Trees_0005.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 7}, {152, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{152, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 638}, {114, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage4_Trees_0007.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {158, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{158, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{478, 788}, {118, 158}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {160, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{160, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 464}, {118, 160}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {160, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{160, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{408, 626}, {112, 160}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {162, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{162, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 474}, {112, 162}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {162, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{162, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{394, 300}, {110, 162}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 76}, {94, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -33}</string>
+			<key>spriteSize</key>
+			<string>{94, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{678, 110}, {94, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage4_Trees_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 76}, {94, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -33}</string>
+			<key>spriteSize</key>
+			<string>{94, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{766, 296}, {38, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage4_Trees_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 76}, {94, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -33}</string>
+			<key>spriteSize</key>
+			<string>{94, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 110}, {94, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage4_Trees_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 76}, {94, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -33}</string>
+			<key>spriteSize</key>
+			<string>{94, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{850, 0}, {38, 94}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Bird1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {24, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1000, 862}, {24, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird1_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Bird1_0007.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{810, 810}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird1_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Bird1_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 7}, {24, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 726}, {18, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Bird1_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Bird1_0005.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 10}, {24, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{850, 96}, {24, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird2_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {24, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 698}, {24, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird2_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{784, 810}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird2_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 7}, {24, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 786}, {18, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Bird2_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Bird2_0005.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 10}, {24, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{766, 392}, {24, 12}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird2_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 7}, {24, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 854}, {24, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Bird2_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 32}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{732, 892}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Birds_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {24, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{24, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 42}, {14, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Birds_0003.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 874}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Birds_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {24, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 812}, {18, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 920}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Birds_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {18, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 134}, {14, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Birds_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {18, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{18, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 114}, {14, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {24, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{24, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 68}, {14, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Birds_0011.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{734, 874}, {22, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Birds_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {24, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 726}, {18, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {22, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{22, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{972, 572}, {16, 22}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 4}, {18, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{18, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 94}, {14, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Birds_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Birds_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 5}, {18, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{18, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{28, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 154}, {14, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0002.png</string>
+				<string>Stage6_MonkeyAttack_0068.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 9}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{872, 804}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 5}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 750}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {42, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{42, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 888}, {42, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 260}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{794, 260}, {44, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 406}, {34, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 452}, {34, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {44, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{44, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 360}, {34, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{44, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 296}, {32, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{540, 118}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0018.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 7}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{586, 118}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 10}, {44, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 268}, {44, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0052.png</string>
+				<string>Stage6_MonkeyAttack_0057.png</string>
+				<string>Stage6_MonkeyAttack_0049.png</string>
+				<string>Stage6_MonkeyAttack_0055.png</string>
+				<string>Stage6_MonkeyAttack_0046.png</string>
+				<string>Stage6_MonkeyAttack_0054.png</string>
+				<string>Stage6_MonkeyAttack_0044.png</string>
+				<string>Stage6_MonkeyAttack_0051.png</string>
+				<string>Stage6_MonkeyAttack_0056.png</string>
+				<string>Stage6_MonkeyAttack_0048.png</string>
+				<string>Stage6_MonkeyAttack_0050.png</string>
+				<string>Stage6_MonkeyAttack_0045.png</string>
+				<string>Stage6_MonkeyAttack_0053.png</string>
+				<string>Stage6_MonkeyAttack_0047.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 14}, {18, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{18, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{736, 854}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0023.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 15}, {26, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -4}</string>
+			<key>spriteSize</key>
+			<string>{26, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 864}, {26, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 9}, {34, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 252}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 9}, {34, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 324}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0030.png</string>
+				<string>Stage6_MonkeyAttack_0029.png</string>
+				<string>Stage6_MonkeyAttack_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 9}, {34, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{996, 288}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0033.png</string>
+				<string>Stage6_MonkeyAttack_0040.png</string>
+				<string>Stage6_MonkeyAttack_0041.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 17}, {26, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{26, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1004, 834}, {20, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0035.png</string>
+				<string>Stage6_MonkeyAttack_0038.png</string>
+				<string>Stage6_MonkeyAttack_0039.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 18}, {26, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -6}</string>
+			<key>spriteSize</key>
+			<string>{26, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 892}, {20, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0037.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 18}, {26, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -6}</string>
+			<key>spriteSize</key>
+			<string>{26, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1004, 806}, {20, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0043.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 16}, {20, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -4}</string>
+			<key>spriteSize</key>
+			<string>{20, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{860, 834}, {20, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0059.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 14}, {18, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{18, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 810}, {18, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 13}, {18, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{18, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{756, 834}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 12}, {18, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{18, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 834}, {24, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 11}, {16, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{16, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{972, 546}, {16, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0064.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 12}, {16, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{16, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 632}, {16, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0066.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 14}, {18, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -3}</string>
+			<key>spriteSize</key>
+			<string>{18, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{836, 818}, {22, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 21}, {16, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -7}</string>
+			<key>spriteSize</key>
+			<string>{16, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{882, 834}, {16, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 9}, {28, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{28, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{710, 608}, {18, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0071.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 5}, {34, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 9}</string>
+			<key>spriteSize</key>
+			<string>{34, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 596}, {16, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0073.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {42, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 11}</string>
+			<key>spriteSize</key>
+			<string>{42, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 574}, {42, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0075.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 1}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 10}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 196}, {22, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0077.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 9}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 508}, {44, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 8}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 532}, {44, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0080.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0081.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 7}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 458}, {22, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0082.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0083.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {44, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 6}</string>
+			<key>spriteSize</key>
+			<string>{44, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{840, 252}, {20, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0084.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0085.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 7}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 150}, {22, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyAttack_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_MonkeyAttack_0087.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 10}, {44, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 542}, {44, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyBanana_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {16, 8}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{16, 8}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 474}, {16, 8}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyBanana_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 3}, {18, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{18, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 20}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 174}, {14, 18}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyTrees_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 8}, {158, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -2}</string>
+			<key>spriteSize</key>
+			<string>{158, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 626}, {92, 158}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyTrees_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 13}, {144, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{144, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{426, 150}, {82, 144}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MonkeyTrees_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 2}, {122, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 1}</string>
+			<key>spriteSize</key>
+			<string>{122, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 926}, {122, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MonkeyTrees_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 24}, {118, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 1}</string>
+			<key>spriteSize</key>
+			<string>{118, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 296}, {54, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Monkey_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 16}, {40, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -7}</string>
+			<key>spriteSize</key>
+			<string>{40, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 556}, {40, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Monkey_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Monkey_0003.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 9}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -4}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{632, 118}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Monkey_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 6}, {50, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{50, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{820, 150}, {32, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Monkey_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Monkey_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 6}, {48, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{48, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{862, 200}, {32, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Monkey_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 4}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{990, 498}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Monkey_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Monkey_0009.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 3}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{884, 706}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Monkey_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Monkey_0011.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 11}, {34, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{34, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{930, 80}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Monkey_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage6_Monkey_0013.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 18}, {32, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -8}</string>
+			<key>spriteSize</key>
+			<string>{32, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{838, 796}, {32, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_MountainLeft.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 4}, {438, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{438, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{444, 184}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 486}, {176, 438}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_MountainRight.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{34, 34}, {98, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-45, -12}</string>
+			<key>spriteSize</key>
+			<string>{98, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 140}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 926}, {96, 98}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Trees_lft_Terrain_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 159}, {142, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{-184, -69}</string>
+			<key>spriteSize</key>
+			<string>{142, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 352}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 300}, {142, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage6_Trees_lft_Terrain_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 100}, {298, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{-106, -11}</string>
+			<key>spriteSize</key>
+			<string>{298, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 352}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{250, 0}, {174, 298}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Trees_lft_Terrain_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 103}, {306, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{-102, 17}</string>
+			<key>spriteSize</key>
+			<string>{306, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 352}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 486}, {112, 306}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Trees_lft_Terrain_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 24}, {484, 248}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, 28}</string>
+			<key>spriteSize</key>
+			<string>{484, 248}</string>
+			<key>spriteSourceSize</key>
+			<string>{512, 352}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {248, 484}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage6_Trees_rgt_Terrain.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 9}, {254, 230}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{254, 230}</string>
+			<key>spriteSourceSize</key>
+			<string>{256, 252}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 794}, {254, 230}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 10}, {28, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{28, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 806}, {28, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 580}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 752}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{856, 422}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{656, 746}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 660}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 742}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 692}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 638}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 622}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 596}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 648}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 702}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 648}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{850, 502}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 342}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 752}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 614}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 666}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{924, 614}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{846, 562}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 592}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 626}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{884, 672}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 762}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{932, 546}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 698}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{886, 570}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 728}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{884, 638}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 626}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 664}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 662}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{656, 706}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 694}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{844, 630}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 672}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{892, 536}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{616, 706}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 682}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{884, 604}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 658}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0059.png</string>
+				<string>Stage8_Predator_0045.png</string>
+				<string>Stage8_Predator_0047.png</string>
+				<string>Stage8_Predator_0058.png</string>
+				<string>Stage8_Predator_0054.png</string>
+				<string>Stage8_Predator_0051.png</string>
+				<string>Stage8_Predator_0046.png</string>
+				<string>Stage8_Predator_0050.png</string>
+				<string>Stage8_Predator_0057.png</string>
+				<string>Stage8_Predator_0048.png</string>
+				<string>Stage8_Predator_0053.png</string>
+				<string>Stage8_Predator_0062.png</string>
+				<string>Stage8_Predator_0056.png</string>
+				<string>Stage8_Predator_0061.png</string>
+				<string>Stage8_Predator_0049.png</string>
+				<string>Stage8_Predator_0052.png</string>
+				<string>Stage8_Predator_0060.png</string>
+				<string>Stage8_Predator_0044.png</string>
+				<string>Stage8_Predator_0063.png</string>
+				<string>Stage8_Predator_0055.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{856, 382}, {32, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0064.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0065.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 7}, {28, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{28, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 0}, {28, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0080.png</string>
+				<string>Stage8_Predator_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 7}, {24, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 624}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0068.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 7}, {28, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{28, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 40}, {28, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0070.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 7}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 204}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0072.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 6}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 162}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0074.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 4}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 846}, {42, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0076.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 3}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{568, 582}, {40, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0078.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 3}, {40, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 582}, {40, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0082.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 5}, {24, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{24, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{850, 536}, {40, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0084.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 3}, {24, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 566}, {42, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0086.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 2}, {24, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{24, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{778, 504}, {24, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0088.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 4}, {26, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{556, 268}, {42, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0090.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 7}, {28, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{28, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 80}, {38, 28}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 580}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 7}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 716}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 7}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{854, 462}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 7}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 42}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0096.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 7}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{650, 596}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0098.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 7}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -0}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{610, 582}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0100.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {44, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{44, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 466}, {44, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0102.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 7}, {44, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -0}</string>
+			<key>spriteSize</key>
+			<string>{44, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 116}, {38, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0105.png</string>
+				<string>Stage8_Predator_0104.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{840, 298}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0106.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0158.png</string>
+				<string>Stage8_Predator_0156.png</string>
+				<string>Stage8_Predator_0107.png</string>
+				<string>Stage8_Predator_0157.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 368}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0108.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0154.png</string>
+				<string>Stage8_Predator_0155.png</string>
+				<string>Stage8_Predator_0109.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 500}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0110.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0153.png</string>
+				<string>Stage8_Predator_0111.png</string>
+				<string>Stage8_Predator_0152.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 6}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -0}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 416}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0150.png</string>
+				<string>Stage8_Predator_0113.png</string>
+				<string>Stage8_Predator_0151.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 9}, {48, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -2}</string>
+			<key>spriteSize</key>
+			<string>{48, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{870, 110}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0114.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0135.png</string>
+				<string>Stage8_Predator_0115.png</string>
+				<string>Stage8_Predator_0131.png</string>
+				<string>Stage8_Predator_0119.png</string>
+				<string>Stage8_Predator_0122.png</string>
+				<string>Stage8_Predator_0147.png</string>
+				<string>Stage8_Predator_0134.png</string>
+				<string>Stage8_Predator_0130.png</string>
+				<string>Stage8_Predator_0127.png</string>
+				<string>Stage8_Predator_0142.png</string>
+				<string>Stage8_Predator_0143.png</string>
+				<string>Stage8_Predator_0126.png</string>
+				<string>Stage8_Predator_0139.png</string>
+				<string>Stage8_Predator_0123.png</string>
+				<string>Stage8_Predator_0146.png</string>
+				<string>Stage8_Predator_0118.png</string>
+				<string>Stage8_Predator_0138.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 13}, {50, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -4}</string>
+			<key>spriteSize</key>
+			<string>{50, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{696, 260}, {50, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage8_Predator_0128.png</string>
+				<string>Stage8_Predator_0125.png</string>
+				<string>Stage8_Predator_0129.png</string>
+				<string>Stage8_Predator_0137.png</string>
+				<string>Stage8_Predator_0145.png</string>
+				<string>Stage8_Predator_0117.png</string>
+				<string>Stage8_Predator_0136.png</string>
+				<string>Stage8_Predator_0141.png</string>
+				<string>Stage8_Predator_0124.png</string>
+				<string>Stage8_Predator_0140.png</string>
+				<string>Stage8_Predator_0144.png</string>
+				<string>Stage8_Predator_0121.png</string>
+				<string>Stage8_Predator_0132.png</string>
+				<string>Stage8_Predator_0148.png</string>
+				<string>Stage8_Predator_0149.png</string>
+				<string>Stage8_Predator_0133.png</string>
+				<string>Stage8_Predator_0120.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 13}, {52, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -4}</string>
+			<key>spriteSize</key>
+			<string>{52, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 260}, {52, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{854, 150}, {40, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0160.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 336}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0161.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{946, 252}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0162.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{970, 0}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0163.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 458}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 452}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0165.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 504}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 210}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0167.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{806, 382}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0168.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{920, 0}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0169.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{820, 202}, {40, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0170.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 42}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0171.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 168}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0172.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 126}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0173.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{804, 424}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0174.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 410}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0175.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 326}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0176.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{890, 494}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0177.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 462}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0178.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{946, 294}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0179.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{960, 84}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0180.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 242}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0181.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 378}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0182.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{840, 340}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0183.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 420}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0184.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {48, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{896, 284}, {48, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage8_Predator_0185.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 416}, {40, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage8_Predator_0186.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {76, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{76, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{478, 948}, {52, 76}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 296}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{540, 0}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 150}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>alert_creep_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 464}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>portraits_sc_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 15}, {42, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{42, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 794}, {42, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HD - sprite_level6.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>sprite_level6-hd.png</string>
+		<key>version</key>
+		<string>1.6.0</string>
+	</dict>
+</dict>
+</plist>

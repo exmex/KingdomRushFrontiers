@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{76A39BB2-9B84-4C65-98A5-654D86B86F2A}</ProjectGuid>
+    <RootNamespace>test_win32</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0'">v120</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v120_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '14.0'">v140</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '14.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v140_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v141_xp</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0'">v120</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '12.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v120_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '14.0'">v140</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '14.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v140_xp</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0' and exists('$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A')">v141_xp</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="..\cocos2d\cocos\2d\cocos2dx.props" />
+    <Import Project="..\cocos2d\cocos\2d\cocos2d_headers.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="..\cocos2d\cocos\2d\cocos2dx.props" />
+    <Import Project="..\cocos2d\cocos\2d\cocos2d_headers.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>12.0.21005.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration).win32\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration).win32\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LibraryPath>$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LibraryPath>$(MSBuildProgramFiles32)\Microsoft SDKs\Windows\v7.1A\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(EngineRoot);$(EngineRoot)external;$(EngineRoot)cocos\audio\include;$(EngineRoot)external\chipmunk\include\chipmunk;$(EngineRoot)extensions;..\Classes;..;%(AdditionalIncludeDirectories);$(_COCOS_HEADER_WIN32_BEGIN);$(_COCOS_HEADER_WIN32_END)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USE_MATH_DEFINES;GL_GLEXT_PROTOTYPES;CC_ENABLE_CHIPMUNK_INTEGRATION=1;COCOS2D_DEBUG=1;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>OldStyle</DebugInformationFormat>
+      <DisableSpecificWarnings>4267;4251;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libcurl.lib;%(AdditionalDependencies);$(_COCOS_LIB_WIN32_BEGIN);$(_COCOS_LIB_WIN32_END)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories);$(_COCOS_LIB_PATH_WIN32_BEGIN);$(_COCOS_LIB_PATH_WIN32_END)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+    <PreLinkEvent>
+      <Command>
+      </Command>
+    </PreLinkEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup>
+    <CustomBuildStep>
+      <Command>if not exist "$(OutDir)" mkdir "$(OutDir)"
+xcopy "$(ProjectDir)..\Resources" "$(OutDir)\Resources\" /D /E /I /F /Y
+      </Command>
+      <Outputs>$(TargetName).cab</Outputs>
+      <Inputs>$(TargetFileName)</Inputs>
+    </CustomBuildStep>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>$(EngineRoot);$(EngineRoot)external;$(EngineRoot)cocos\audio\include;$(EngineRoot)external\chipmunk\include\chipmunk;$(EngineRoot)extensions;..\Classes;..;%(AdditionalIncludeDirectories);$(_COCOS_HEADER_WIN32_BEGIN);$(_COCOS_HEADER_WIN32_END)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USE_MATH_DEFINES;GL_GLEXT_PROTOTYPES;CC_ENABLE_CHIPMUNK_INTEGRATION=1;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4267;4251;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libcurl.lib;%(AdditionalDependencies);$(_COCOS_LIB_WIN32_BEGIN);$(_COCOS_LIB_WIN32_END)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>$(OutDir);%(AdditionalLibraryDirectories);$(_COCOS_LIB_PATH_WIN32_BEGIN);$(_COCOS_LIB_PATH_WIN32_END)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+    <PreLinkEvent>
+      <Command>
+      </Command>
+    </PreLinkEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\Bullet\ArchMageBolt.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Arrow.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Bomb.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Bullet.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Drill.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Dynamite.cpp" />
+    <ClCompile Include="..\Classes\Bullet\EarthquakeSmoke.cpp" />
+    <ClCompile Include="..\Classes\Bullet\FireBall.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Freeze.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Lava.cpp" />
+    <ClCompile Include="..\Classes\Bullet\MageBolt.cpp" />
+    <ClCompile Include="..\Classes\Bullet\MechaBomb.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Missile.cpp" />
+    <ClCompile Include="..\Classes\Bullet\NecrBolt.cpp" />
+    <ClCompile Include="..\Classes\Bullet\RedTotem.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Shit.cpp" />
+    <ClCompile Include="..\Classes\Bullet\TotemAxe.cpp" />
+    <ClCompile Include="..\Classes\Bullet\Twister.cpp" />
+    <ClCompile Include="..\Classes\Bullet\VioletTotem.cpp" />
+    <ClCompile Include="..\Classes\Data\GameManager.cpp" />
+    <ClCompile Include="..\Classes\Data\MyAnimation.cpp" />
+    <ClCompile Include="..\Classes\Data\SoundManager.cpp" />
+    <ClCompile Include="..\Classes\Layer\Failure.cpp" />
+    <ClCompile Include="..\Classes\Layer\GameOption.cpp" />
+    <ClCompile Include="..\Classes\Layer\GameViewMenu.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\SimplePanleLayer.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\SimplePanleLayerWithFlag.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\TowerPanleLayer.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\UpdatePanleLayer.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\UpdatePanleLayer2.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\UpdatePanleLayer2WithFlag.cpp" />
+    <ClCompile Include="..\Classes\Layer\Menu\UpdatePanleLayerWithFlag.cpp" />
+    <ClCompile Include="..\Classes\Layer\PlayerStateMenu.cpp" />
+    <ClCompile Include="..\Classes\Layer\TouchLayer.cpp" />
+    <ClCompile Include="..\Classes\Layer\Victory.cpp" />
+    <ClCompile Include="..\Classes\Map\BaseMap.cpp" />
+    <ClCompile Include="..\Classes\Map\Level0.cpp" />
+    <ClCompile Include="..\Classes\Map\Level1.cpp" />
+    <ClCompile Include="..\Classes\Map\Level10.cpp" />
+    <ClCompile Include="..\Classes\Map\Level11.cpp" />
+    <ClCompile Include="..\Classes\Map\Level12.cpp" />
+    <ClCompile Include="..\Classes\Map\Level13.cpp" />
+    <ClCompile Include="..\Classes\Map\Level2.cpp" />
+    <ClCompile Include="..\Classes\Map\Level3.cpp" />
+    <ClCompile Include="..\Classes\Map\Level4.cpp" />
+    <ClCompile Include="..\Classes\Map\Level5.cpp" />
+    <ClCompile Include="..\Classes\Map\Level6.cpp" />
+    <ClCompile Include="..\Classes\Map\Level7.cpp" />
+    <ClCompile Include="..\Classes\Map\Level8.cpp" />
+    <ClCompile Include="..\Classes\Map\Level9.cpp" />
+    <ClCompile Include="..\Classes\Monster\BaseMonster.cpp" />
+    <ClCompile Include="..\Classes\Monster\Boss\Boss_Canibal.cpp" />
+    <ClCompile Include="..\Classes\Monster\Boss\Boss_Efreeti.cpp" />
+    <ClCompile Include="..\Classes\Monster\Boss\CanibalOffspring.cpp" />
+    <ClCompile Include="..\Classes\Monster\Boss\Efreeti.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Executioner.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Fallen.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Immortal.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Munra.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Raider.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Scorpion.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Thug.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Tremor.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\WaspHornet.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\WaspQueen.cpp" />
+    <ClCompile Include="..\Classes\Monster\Desert\Wolf.cpp" />
+    <ClCompile Include="..\Classes\Monster\GroupMonster.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Canibal.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Gorilla.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Hunter.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Priest.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Shaman.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\Shield.cpp" />
+    <ClCompile Include="..\Classes\Monster\Jungle\WingRider.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Blazefang.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Broodguard.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Elite.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Myrmidon.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Nightscale.cpp" />
+    <ClCompile Include="..\Classes\Monster\Underground\Quetzal.cpp" />
+    <ClCompile Include="..\Classes\Road\Road.cpp" />
+    <ClCompile Include="..\Classes\Scene\ChooseDifficulty.cpp" />
+    <ClCompile Include="..\Classes\Scene\GameScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\GameView.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\EncyclopaediaTips.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\EncyclopediaScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\EnemyDesc.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\EnemyScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\Information.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\TowerDesc.cpp" />
+    <ClCompile Include="..\Classes\Scene\Introduction\TowerScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\LoadingScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\ShopScene.cpp" />
+    <ClCompile Include="..\Classes\Scene\Story\BeginAnimation.cpp" />
+    <ClCompile Include="..\Classes\Scene\TransitionGame.cpp" />
+    <ClCompile Include="..\Classes\Scene\UpdateTowerScene\Icons.cpp" />
+    <ClCompile Include="..\Classes\Scene\UpdateTowerScene\Upgrades.cpp" />
+    <ClCompile Include="..\Classes\Scene\WelcomeScene.cpp" />
+    <ClCompile Include="..\Classes\Soldier\Assassin.cpp" />
+    <ClCompile Include="..\Classes\Soldier\BarrackSoldier.cpp" />
+    <ClCompile Include="..\Classes\Soldier\BaseSoldier.cpp" />
+    <ClCompile Include="..\Classes\Soldier\DeathKnight.cpp" />
+    <ClCompile Include="..\Classes\Soldier\Mecha.cpp" />
+    <ClCompile Include="..\Classes\Soldier\ReinforceSoldier1.cpp" />
+    <ClCompile Include="..\Classes\Soldier\ReinforceSoldier2.cpp" />
+    <ClCompile Include="..\Classes\Soldier\Skeleton.cpp" />
+    <ClCompile Include="..\Classes\Soldier\Templar.cpp" />
+    <ClCompile Include="..\Classes\Sprite\Circle\Circle.cpp" />
+    <ClCompile Include="..\Classes\Sprite\Circle\RallyCircle.cpp" />
+    <ClCompile Include="..\Classes\Sprite\MagicIcon.cpp" />
+    <ClCompile Include="..\Classes\Sprite\MapFlag.cpp" />
+    <ClCompile Include="..\Classes\Sprite\MonsterInfoLayer.cpp" />
+    <ClCompile Include="..\Classes\Sprite\RespirationSprite.cpp" />
+    <ClCompile Include="..\Classes\Sprite\ShopIcon.cpp" />
+    <ClCompile Include="..\Classes\Sprite\SlotMenu.cpp" />
+    <ClCompile Include="..\Classes\Sprite\Smoke.cpp" />
+    <ClCompile Include="..\Classes\Sprite\TowerIcon\BaseBuildIcon.cpp" />
+    <ClCompile Include="..\Classes\Sprite\TowerIcon\SellIcon.cpp" />
+    <ClCompile Include="..\Classes\Sprite\TowerInfoLayer.cpp" />
+    <ClCompile Include="..\Classes\Sprite\UpdateIcon.cpp" />
+    <ClCompile Include="..\Classes\Sprite\WaveFlag.cpp" />
+    <ClCompile Include="..\Classes\Tower\ArchMageTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\BaseArrowTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\BaseArtilleryTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\BaseBarracksTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\BaseMageTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\BaseTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\CossbowHunterTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\EarthquakeTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\MechsTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\NecromancerTower.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArrowTowerlvl1.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArrowTowerLvl2.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArrowTowerLvl3.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArtilleryTowerlvl1.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArtilleryTowerlvl2.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleArtilleryTowerlvl3.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleMageTowerlvl1.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleMageTowerlvl2.cpp" />
+    <ClCompile Include="..\Classes\Tower\SimpleMageTowerlvl3.cpp" />
+    <ClCompile Include="..\Classes\Tower\Terrain.cpp" />
+    <ClCompile Include="..\Classes\Tower\TotemTower.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="..\Classes\Bullet\ArchMageBolt.h" />
+    <ClInclude Include="..\Classes\Bullet\Arrow.h" />
+    <ClInclude Include="..\Classes\Bullet\Bomb.h" />
+    <ClInclude Include="..\Classes\Bullet\Bullet.h" />
+    <ClInclude Include="..\Classes\Bullet\Drill.h" />
+    <ClInclude Include="..\Classes\Bullet\Dynamite.h" />
+    <ClInclude Include="..\Classes\Bullet\EarthquakeSmoke.h" />
+    <ClInclude Include="..\Classes\Bullet\FireBall.h" />
+    <ClInclude Include="..\Classes\Bullet\Freeze.h" />
+    <ClInclude Include="..\Classes\Bullet\Lava.h" />
+    <ClInclude Include="..\Classes\Bullet\MageBolt.h" />
+    <ClInclude Include="..\Classes\Bullet\MechaBomb.h" />
+    <ClInclude Include="..\Classes\Bullet\Missile.h" />
+    <ClInclude Include="..\Classes\Bullet\NecrBolt.h" />
+    <ClInclude Include="..\Classes\Bullet\RedTotem.h" />
+    <ClInclude Include="..\Classes\Bullet\Shit.h" />
+    <ClInclude Include="..\Classes\Bullet\Smoke.h" />
+    <ClInclude Include="..\Classes\Bullet\TotemAxe.h" />
+    <ClInclude Include="..\Classes\Bullet\Twister.h" />
+    <ClInclude Include="..\Classes\Bullet\VioletTotem.h" />
+    <ClInclude Include="..\Classes\Data\GameManager.h" />
+    <ClInclude Include="..\Classes\Data\MyAnimation.h" />
+    <ClInclude Include="..\Classes\Data\SoundManager.h" />
+    <ClInclude Include="..\Classes\Layer\Failure.h" />
+    <ClInclude Include="..\Classes\Layer\GameOption.h" />
+    <ClInclude Include="..\Classes\Layer\GameViewMenu.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\SimplePanleLayer.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\SimplePanleLayerWithFlag.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\TowerPanleLayer.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\UpdatePanleLayer.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\UpdatePanleLayer2.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\UpdatePanleLayer2WithFlag.h" />
+    <ClInclude Include="..\Classes\Layer\Menu\UpdatePanleLayerWithFlag.h" />
+    <ClInclude Include="..\Classes\Layer\PlayerStateMenu.h" />
+    <ClInclude Include="..\Classes\Layer\TouchLayer.h" />
+    <ClInclude Include="..\Classes\Layer\Victory.h" />
+    <ClInclude Include="..\Classes\Map\BaseMap.h" />
+    <ClInclude Include="..\Classes\Map\Level0.h" />
+    <ClInclude Include="..\Classes\Map\Level1.h" />
+    <ClInclude Include="..\Classes\Map\Level10.h" />
+    <ClInclude Include="..\Classes\Map\Level11.h" />
+    <ClInclude Include="..\Classes\Map\Level12.h" />
+    <ClInclude Include="..\Classes\Map\Level13.h" />
+    <ClInclude Include="..\Classes\Map\Level2.h" />
+    <ClInclude Include="..\Classes\Map\Level3.h" />
+    <ClInclude Include="..\Classes\Map\Level4.h" />
+    <ClInclude Include="..\Classes\Map\Level5.h" />
+    <ClInclude Include="..\Classes\Map\Level6.h" />
+    <ClInclude Include="..\Classes\Map\Level7.h" />
+    <ClInclude Include="..\Classes\Map\Level8.h" />
+    <ClInclude Include="..\Classes\Map\Level9.h" />
+    <ClInclude Include="..\Classes\Monster\BaseMonster.h" />
+    <ClInclude Include="..\Classes\Monster\Boss\Boss_Canibal.h" />
+    <ClInclude Include="..\Classes\Monster\Boss\Boss_Efreeti.h" />
+    <ClInclude Include="..\Classes\Monster\Boss\CanibalOffspring.h" />
+    <ClInclude Include="..\Classes\Monster\Boss\Efreeti.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Executioner.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Fallen.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Immortal.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Munra.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Raider.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Scorpion.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Thug.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Tremor.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\WaspHornet.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\WaspQueen.h" />
+    <ClInclude Include="..\Classes\Monster\Desert\Wolf.h" />
+    <ClInclude Include="..\Classes\Monster\GroupMonster.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Canibal.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Gorilla.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Hunter.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Priest.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Shaman.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\Shield.h" />
+    <ClInclude Include="..\Classes\Monster\Jungle\WingRider.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Blazefang.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Broodguard.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Elite.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Myrmidon.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Nightscale.h" />
+    <ClInclude Include="..\Classes\Monster\Underground\Quetzal.h" />
+    <ClInclude Include="..\Classes\Road\Road.h" />
+    <ClInclude Include="..\Classes\Scene\ChooseDifficulty.h" />
+    <ClInclude Include="..\Classes\Scene\GameScene.h" />
+    <ClInclude Include="..\Classes\Scene\GameView.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\EncyclopaediaTips.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\EncyclopediaScene.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\EnemyDesc.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\EnemyScene.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\Information.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\TowerDesc.h" />
+    <ClInclude Include="..\Classes\Scene\Introduction\TowerScene.h" />
+    <ClInclude Include="..\Classes\Scene\LoadingScene.h" />
+    <ClInclude Include="..\Classes\Scene\ShopScene.h" />
+    <ClInclude Include="..\Classes\Scene\Story\BeginAnimation.h" />
+    <ClInclude Include="..\Classes\Scene\TransitionGame.h" />
+    <ClInclude Include="..\Classes\Scene\UpdateTowerScene\Icons.h" />
+    <ClInclude Include="..\Classes\Scene\UpdateTowerScene\Upgrades.h" />
+    <ClInclude Include="..\Classes\Scene\WelcomeScene.h" />
+    <ClInclude Include="..\Classes\Soldier\Assassin.h" />
+    <ClInclude Include="..\Classes\Soldier\BarrackSoldier.h" />
+    <ClInclude Include="..\Classes\Soldier\BaseSoldier.h" />
+    <ClInclude Include="..\Classes\Soldier\DeathKnight.h" />
+    <ClInclude Include="..\Classes\Soldier\Mecha.h" />
+    <ClInclude Include="..\Classes\Soldier\ReinforceSoldier1.h" />
+    <ClInclude Include="..\Classes\Soldier\ReinforceSoldier2.h" />
+    <ClInclude Include="..\Classes\Soldier\Skeleton.h" />
+    <ClInclude Include="..\Classes\Soldier\Templar.h" />
+    <ClInclude Include="..\Classes\Sprite\Circle\Circle.h" />
+    <ClInclude Include="..\Classes\Sprite\Circle\RallyCircle.h" />
+    <ClInclude Include="..\Classes\Sprite\MagicIcon.h" />
+    <ClInclude Include="..\Classes\Sprite\MapFlag.h" />
+    <ClInclude Include="..\Classes\Sprite\MonsterInfoLayer.h" />
+    <ClInclude Include="..\Classes\Sprite\RespirationSprite.h" />
+    <ClInclude Include="..\Classes\Sprite\ShopIcon.h" />
+    <ClInclude Include="..\Classes\Sprite\SlotMenu.h" />
+    <ClInclude Include="..\Classes\Sprite\TowerIcon\BaseBuildIcon.h" />
+    <ClInclude Include="..\Classes\Sprite\TowerIcon\SellIcon.h" />
+    <ClInclude Include="..\Classes\Sprite\TowerInfoLayer.h" />
+    <ClInclude Include="..\Classes\Sprite\UpdateIcon.h" />
+    <ClInclude Include="..\Classes\Sprite\WaveFlag.h" />
+    <ClInclude Include="..\Classes\Tower\ArchMageTower.h" />
+    <ClInclude Include="..\Classes\Tower\BaseArrowTower.h" />
+    <ClInclude Include="..\Classes\Tower\BaseArtilleryTower.h" />
+    <ClInclude Include="..\Classes\Tower\BaseBarracksTower.h" />
+    <ClInclude Include="..\Classes\Tower\BaseMageTower.h" />
+    <ClInclude Include="..\Classes\Tower\BaseTower.h" />
+    <ClInclude Include="..\Classes\Tower\CossbowHunterTower.h" />
+    <ClInclude Include="..\Classes\Tower\EarthquakeTower.h" />
+    <ClInclude Include="..\Classes\Tower\MechsTower.h" />
+    <ClInclude Include="..\Classes\Tower\NecromancerTower.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArrowTowerlvl1.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArrowTowerLvl2.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArrowTowerLvl3.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArtilleryTowerlvl1.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArtilleryTowerlvl2.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleArtilleryTowerlvl3.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleMageTowerlvl1.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleMageTowerlvl2.h" />
+    <ClInclude Include="..\Classes\Tower\SimpleMageTowerlvl3.h" />
+    <ClInclude Include="..\Classes\Tower\Terrain.h" />
+    <ClInclude Include="..\Classes\Tower\TotemTower.h" />
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cocos2d\cocos\2d\libcocos2d.vcxproj">
+      <Project>{98a51ba8-fc3a-415b-ac8f-8c7bd464e93e}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="..\cocos2d\cocos\editor-support\spine\proj.win32\libSpine.vcxproj">
+      <Project>{b7c2a162-dec9-4418-972e-240ab3cbfcae}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

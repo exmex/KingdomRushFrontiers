@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\src\main\assets"/><source path="H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="H:\BaiduNetdiskDownload\KingdomRush-master\KingdomRush\cocos2d\cocos\platform\android\libcocos2dx\src\release\assets"/></dataSet></merger>

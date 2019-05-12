@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>id</key>
+			<string>0</string>
+			<key>blueStrTop</key>
+			<string>沙漠之鹰</string>
+			<key>blackStr1</key>
+			<string>崇高的战士！
+
+作为一名将军，您的国王卡德拉需要你的服务
+
+南部城市传来了不好的消息，有不少非法分子正向
+他们进攻。需要你到那防御敌人
+
+好运！</string>
+			<key>blackStr2</key>
+			<string>用你卓越的能力去挑战敌人最精良的部队！</string>
+			<key>blackStr3</key>
+			<string>无穷无尽的敌人，钢铁模式将会测试
+你的耐久能力</string>
+			<key>blueStr1</key>
+			<string>挑战</string>
+			<key>blueStr2</key>
+			<string>英雄模式</string>
+			<key>blueStr3</key>
+			<string>钢铁模式</string>
+		</dict>
+	</array>
+</plist>

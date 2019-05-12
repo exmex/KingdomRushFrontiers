@@ -1,0 +1,3544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>DarterEffectTeleport_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 36}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 114}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>QuetzalEgg_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>QuetzalEgg_0014.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 38}, {48, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -18}</string>
+			<key>spriteSize</key>
+			<string>{48, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 142}, {36, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>QuetzalEgg_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>QuetzalEgg_0016.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 39}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -19}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 36}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {38, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{40, 308}, {54, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {38, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 420}, {38, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 348}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 4}, {38, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{38, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 308}, {38, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {38, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 364}, {38, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 4}, {40, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{40, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{50, 0}, {54, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0088.png</string>
+			
+				<string>SaurianBlazefang_0087.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 9}, {46, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -0}</string>
+			<key>spriteSize</key>
+			<string>{46, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 160}, {46, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0105.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 10}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 290}, {38, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0108.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0109.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 10}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 468}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0113.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 10}, {38, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{172, 428}, {48, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0122.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {36, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 42}, {36, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0123.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0124.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 9}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 304}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0131.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0132.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 10}, {36, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -0}</string>
+			<key>spriteSize</key>
+			<string>{36, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 92}, {36, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0141.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0142.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 9}, {38, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{88, 388}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0149.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0150.png</string>
+			
+				<string>SaurianBlazefang_0151.png</string>
+			
+				<string>SaurianBlazefang_0152.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 9}, {40, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{50, 208}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBlazefang_0160.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0161.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 13}, {48, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -2}</string>
+			<key>spriteSize</key>
+			<string>{48, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 212}, {48, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0162.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0163.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 12}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 260}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0164.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0165.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 12}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{50, 90}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0166.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0167.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 12}, {34, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 416}, {34, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBlazefang_0187.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBlazefang_0188.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 11}, {50, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -1}</string>
+			<key>spriteSize</key>
+			<string>{50, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{104, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 108}, {48, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 7}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 194}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 3}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{190, 244}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 3}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 332}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 9}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 0}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 7}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 234}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 4}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 368}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 3}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 328}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 3}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 288}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 6}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 1}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 74}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 7}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 422}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 4}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{82, 448}, {40, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 7}, {24, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{464, 0}, {38, 24}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 5}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{486, 56}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 9}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 428}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 4}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{486, 98}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0060.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0061.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 4}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{40, 448}, {40, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0062.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 4}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 306}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianBroodguard_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0073.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 6}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 36}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 6}, {42, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 1}</string>
+			<key>spriteSize</key>
+			<string>{42, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{150, 244}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianBroodguard_0114.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianBroodguard_0115.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 24}, {38, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -11}</string>
+			<key>spriteSize</key>
+			<string>{38, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{486, 382}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 3}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 36}, {36, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 4}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{426, 0}, {36, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {24, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{488, 302}, {24, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianDarter_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 2}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{408, 72}, {38, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 2}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 216}, {38, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {24, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{24, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{488, 338}, {24, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianDarter_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 5}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 462}, {34, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 3}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 64}, {36, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 6}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{450, 134}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0076.png</string>
+			
+				<string>SaurianDarter_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 5}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -0}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 0}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianDarter_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianDarter_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 4}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{450, 28}, {36, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianDarter_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 6}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{450, 92}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianMyrmidon_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 6}, {48, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {48, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianMyrmidon_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianMyrmidon_0082.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 14}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{50, 42}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianMyrmidon_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianMyrmidon_0090.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 12}, {46, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{46, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 160}, {48, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianMyrmidon_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianMyrmidon_0092.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {48, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 1}</string>
+			<key>spriteSize</key>
+			<string>{48, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 56}, {48, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianMyrmidon_0104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 36}, {54, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -18}</string>
+			<key>spriteSize</key>
+			<string>{54, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{40, 348}, {36, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 8}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{314, 0}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{386, 266}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 4}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 4}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{304, 464}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0011.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 10}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 196}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 8}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{276, 0}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0015.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 5}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 142}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 4}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 4}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 410}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0022.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 10}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 74}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 7}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 302}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 5}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{310, 276}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 4}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 4}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{336, 154}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0031.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 5}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 360}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0033.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 9}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{352, 0}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0035.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 7}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{450, 382}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0039.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 2}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 36}, {42, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 2}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 5}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 288}, {38, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 5}, {36, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{36, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 402}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 9}, {34, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{200, 0}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{338, 36}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 6}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 154}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 5}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 452}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0053.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 6}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{220, 114}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 10}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 198}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0056.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 8}, {36, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{36, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 74}, {36, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0058.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0059.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 4}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 120}, {40, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 10}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 196}, {34, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 7}, {36, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{36, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 36}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 10}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 36}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0080.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 6}, {34, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{34, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 342}, {34, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0091.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 4}, {38, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 3}</string>
+			<key>spriteSize</key>
+			<string>{38, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 376}, {42, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0099.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 4}, {34, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{34, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 0}, {42, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianNightscale_0133.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0134.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 14}, {38, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{38, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 74}, {38, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianNightscale_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianNightscale_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 14}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{310, 318}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianQuetzal_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 18}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 14}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 386}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 18}, {48, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 17}</string>
+			<key>spriteSize</key>
+			<string>{48, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 0}, {48, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0014.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 14}, {46, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 19}</string>
+			<key>spriteSize</key>
+			<string>{46, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 380}, {38, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianQuetzal_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0018.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 14}, {36, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 17}</string>
+			<key>spriteSize</key>
+			<string>{36, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 160}, {36, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {46, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 19}</string>
+			<key>spriteSize</key>
+			<string>{46, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{40, 404}, {46, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0030.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 20}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 14}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 232}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianQuetzal_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0032.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 18}, {38, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSize</key>
+			<string>{38, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 74}, {38, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 13}, {48, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 18}</string>
+			<key>spriteSize</key>
+			<string>{48, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 260}, {48, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0046.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 53}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -21}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 470}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 46}, {50, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -13}</string>
+			<key>spriteSize</key>
+			<string>{50, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 250}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0058.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 42}, {46, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -9}</string>
+			<key>spriteSize</key>
+			<string>{46, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 428}, {46, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0060.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 36}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -4}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 344}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0062.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 35}, {48, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{48, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{254, 468}, {48, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0070.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 32}, {46, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{46, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 340}, {46, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianQuetzal_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianQuetzal_0074.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 18}, {46, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 14}</string>
+			<key>spriteSize</key>
+			<string>{46, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 428}, {46, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0002.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 276}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0004.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 6}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 36}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 4}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 132}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0009.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 7}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 316}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0013.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{384, 224}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0017.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 4}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{140, 174}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 5}, {40, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 78}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0020.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 100}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0024.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 8}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{448, 184}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 6}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 390}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0028.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 216}, {38, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0037.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 5}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 196}, {38, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0042.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 6}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 348}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0048.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 6}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{416, 388}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0050.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 5}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 350}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 3}, {26, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 264}, {26, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0066.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 10}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{486, 140}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0136.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{374, 110}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0068.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0099.png</string>
+			
+				<string>SaurianSavant_0100.png</string>
+			
+				<string>SaurianSavant_0069.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 156}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0070.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0071.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{374, 152}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0073.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{336, 112}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0075.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 234}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0076.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0078.png</string>
+			
+				<string>SaurianSavant_0077.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 9}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 112}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0079.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0080.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 8}, {48, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -0}</string>
+			<key>spriteSize</key>
+			<string>{48, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{102, 192}, {36, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0084.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {50, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{52, 476}, {50, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0088.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {50, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{104, 476}, {50, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {50, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 476}, {50, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0096.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 8}, {46, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -0}</string>
+			<key>spriteSize</key>
+			<string>{46, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{136, 84}, {36, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 358}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0102.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 234}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0104.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 274}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0107.png</string>
+			
+				<string>SaurianSavant_0106.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 8}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 154}, {36, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0117.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 8}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 222}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0118.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0119.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{28, 9}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{386, 308}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0120.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0121.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 9}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 218}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0122.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0124.png</string>
+			
+				<string>SaurianSavant_0123.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 10}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 176}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0135.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 8}, {40, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{40, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{458, 260}, {34, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>SaurianSavant_0140.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 21}, {36, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -8}</string>
+			<key>spriteSize</key>
+			<string>{36, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{410, 194}, {36, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>SaurianSavant_0143.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>SaurianSavant_0144.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 25}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -10}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{472, 422}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.3</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>enemies_underground_3-HD</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>enemies_underground_3-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>enemies_underground_3-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

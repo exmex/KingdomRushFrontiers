@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Stage5_door_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_0002.png</string>
+				<string>Stage5_door_0013.png</string>
+				<string>Stage5_door_0025.png</string>
+				<string>Stage5_door_0005.png</string>
+				<string>Stage5_door_0017.png</string>
+				<string>Stage5_door_0021.png</string>
+				<string>Stage5_door_0010.png</string>
+				<string>Stage5_door_0026.png</string>
+				<string>Stage5_door_0018.png</string>
+				<string>Stage5_door_0009.png</string>
+				<string>Stage5_door_0014.png</string>
+				<string>Stage5_door_0006.png</string>
+				<string>Stage5_door_0022.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 30}, {286, 234}}</string>
+			<key>spriteOffset</key>
+			<string>{-12, -13}</string>
+			<key>spriteSize</key>
+			<string>{286, 234}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 0}, {234, 286}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_0011.png</string>
+				<string>Stage5_door_0012.png</string>
+				<string>Stage5_door_0008.png</string>
+				<string>Stage5_door_0015.png</string>
+				<string>Stage5_door_0019.png</string>
+				<string>Stage5_door_0004.png</string>
+				<string>Stage5_door_0024.png</string>
+				<string>Stage5_door_0016.png</string>
+				<string>Stage5_door_0027.png</string>
+				<string>Stage5_door_0023.png</string>
+				<string>Stage5_door_0007.png</string>
+				<string>Stage5_door_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 30}, {286, 234}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -13}</string>
+			<key>spriteSize</key>
+			<string>{286, 234}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {234, 286}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>sprite_level5_3-hd</string>
+			<key>name</key>
+			<string>default</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>sprite_level5_3-hd</string>
+		</dict>
+		<key>version</key>
+		<string>1.5.3</string>
+	</dict>
+</dict>
+</plist>

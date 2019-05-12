@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			<key>id</key>
+			<string>0</string>
+			<key>TowerName</key>
+			<string>初级箭塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>一般</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>初级箭塔可以在远距离射杀别人</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>TowerName</key>
+			<string>民兵</string>
+			
+			<key>AttackSpeed</key>
+			<string>无</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>训练民命，可阻止和对抗敌人</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>TowerName</key>
+			<string>魔法塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>慢</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>魔法攻击，无视敌人护甲</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>TowerName</key>
+			<string>大炮</string>
+			
+			<key>AttackSpeed</key>
+			<string>非常慢</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>丢炮弹造成大面积伤害</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>4</string>
+			<key>TowerName</key>
+			<string>中级箭塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>5</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>中级箭塔使用长弓，范围更大</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>5</string>
+			<key>TowerName</key>
+			<string>步兵</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>比民兵更好的装备</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>6</string>
+			<key>TowerName</key>
+			<string>中级魔法塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>5</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>魔法攻击，能撕碎敌人</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>7</string>
+			<key>TowerName</key>
+			<string>火炮</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>增强弹药，攻击范围更大</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>8</string>
+			<key>TowerName</key>
+			<string>高级箭塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>5</string>
+			<key>AttackValue</key>
+			<string>6</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>达到高级后，他们的攻击范围和伤害都会提高</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>9</string>
+			<key>TowerName</key>
+			<string>骑士</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>他们是专业士兵，装备有重型装甲</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>10</string>
+			<key>TowerName</key>
+			<string>高级魔法塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>更高的攻击，可以延缓敌人进攻</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>11</string>
+			<key>TowerName</key>
+			<string>榴弹炮</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>炮弹越来越大，敌人无处可逃！</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>12</string>
+			<key>TowerName</key>
+			<string>机器人装甲车</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>全屏幕跟踪导弹，对近距离敌人释放炮弹
+敌人数量增加是释放shit减速敌人</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>13</string>
+			<key>TowerName</key>
+			<string>盗贼基地</string>
+			
+			<key>AttackSpeed</key>
+			<string>无</string>
+			<key>AttackValue</key>
+			<string>无</string>
+			<key>AttackRange</key>
+			<string>无</string>
+			
+			<key>Note</key>
+			<string>召唤盗贼
+攻击敌人，盗取金钱，闪避敌人攻击</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>14</string>
+			<key>TowerName</key>
+			<string>死灵法师塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>60</string>
+			<key>AttackRange</key>
+			<string>非常大</string>
+			
+			<key>Note</key>
+			<string>召唤死亡骑士
+死在死灵法师手下的敌人都会变成骷髅兵！</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>15</string>
+			<key>TowerName</key>
+			<string>巫师塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>慢</string>
+			<key>AttackValue</key>
+			<string>60</string>
+			<key>AttackRange</key>
+			<string>非常大</string>
+			
+			<key>Note</key>
+			<string>充能3个能量球攻击敌人
+召唤自然力量——龙卷风</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>16</string>
+			<key>TowerName</key>
+			<string>地震塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>慢</string>
+			<key>AttackValue</key>
+			<string>100</string>
+			<key>AttackRange</key>
+			<string>非常大</string>
+			
+			<key>Note</key>
+			<string>挖掘技术顶峰，用地震伤害并且减速周围敌人</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>17</string>
+			<key>TowerName</key>
+			<string>高级兵营塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>注：此货是高级塔</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>18</string>
+			<key>TowerName</key>
+			<string>高级炮塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>注：此货是高级塔</string>
+		</dict>
+		
+		<dict>
+			<key>id</key>
+			<string>19</string>
+			<key>TowerName</key>
+			<string>高级兵营塔</string>
+			
+			<key>AttackSpeed</key>
+			<string>6</string>
+			<key>AttackValue</key>
+			<string>16</string>
+			<key>AttackRange</key>
+			<string>9</string>
+			
+			<key>Note</key>
+			<string>注：此货是高级塔</string>
+		</dict>
+
+		<dict>
+			<key>id</key>
+			<string>100</string>
+			
+			<key>AttackSpeed</key>
+			<string>攻击速度</string>
+			<key>AttackValue</key>
+			<string>攻击伤害</string>
+			<key>AttackRange</key>
+			<string>攻击范围</string>
+			
+			
+			<key>Note</key>
+			<string></string>
+		</dict>
+		
+	</array>
+</plist>

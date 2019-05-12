@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>encyclopedia_creep_0201.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 525}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0202.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 863}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0203.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 175}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0204.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1575}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0205.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 350}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0206.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1563}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0207.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{863, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0208.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1213}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0209.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0210.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1026}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0211.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1400}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0212.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1551, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0213.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{851, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0214.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1038}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0215.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1738}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0216.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1388, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0217.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{338, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0218.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 326}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0219.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{501, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0220.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1376}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0221.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0222.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1201, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0223.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1563, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0224.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1726, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0225.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 688}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0226.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0227.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 501}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0228.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 163}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0229.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1225}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0230.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1388}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0231.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 851}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0232.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1750}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0233.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1201}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0234.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1376, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0235.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0236.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1213, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0238.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 700}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0239.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 676}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0240.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 338}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0241.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 513}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0242.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0243.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1050}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0244.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 875}, {162, 174}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_0245.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1038, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0246.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1026, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0247.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1738, 0}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_0248.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {174, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 163}, {174, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0201.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1190}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0208.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1008}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0210.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1913}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0211.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 735}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0214.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1281}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0217.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1099}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0219.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1463}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0221.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 917}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0224.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1372}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0225.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1190}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0226.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1736}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0227.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1901, 163}, {90, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0228.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1008}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0229.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{655, 644}, {90, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0230.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1281}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0231.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 826}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0232.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 644}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0234.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1918}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0235.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1918}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0239.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1554}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0240.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 826}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0241.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 735}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0242.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1554}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0243.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{746, 644}, {90, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0244.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 644}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0245.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1736}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0246.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1913, 0}, {90, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0247.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1827}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_creep_thumbs_0248.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1645}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1354, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0102.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1873, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1527, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0104.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1527, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0105.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1700, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0106.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1181, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1724}, {158, 172}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_0108.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1008, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0110.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{662, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1354, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0112.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{835, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1008, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0114.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{662, 326}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1700, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1551}, {158, 172}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_0118.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1181, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{835, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_0120.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 9}, {172, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{172, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1873, 485}, {172, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0102.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1645}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 917}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0110.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1925}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1463}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0116.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1827}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 1897}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0120.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{572, 1099}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>encyclopedia_tower_thumbs_0121.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {90, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{90, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{489, 1372}, {82, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>sprite_common_16_nahd.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>target</key>
+		<dict>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>coordinatesFileName</key>
+			<string>common_spritesheet_16_na-hd</string>
+			<key>name</key>
+			<string>Retina</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>textureFileName</key>
+			<string>common_spritesheet_16_na-hd</string>
+		</dict>
+		<key>version</key>
+		<string>1.5.8</string>
+	</dict>
+</dict>
+</plist>

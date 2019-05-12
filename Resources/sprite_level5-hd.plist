@@ -1,0 +1,7275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Boss_Efreeti_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0051.png</string>
+				<string>Boss_Efreeti_0023.png</string>
+				<string>Boss_Efreeti_0138.png</string>
+				<string>Boss_Efreeti_0024.png</string>
+				<string>Boss_Efreeti_0002.png</string>
+				<string>Boss_Efreeti_0139.png</string>
+				<string>Boss_Efreeti_0088.png</string>
+				<string>Boss_Efreeti_0250.png</string>
+				<string>Boss_Efreeti_0052.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 23}, {152, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 20}</string>
+			<key>spriteSize</key>
+			<string>{152, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{928, 1884}, {146, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 23}, {154, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{154, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{988, 1506}, {154, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 22}, {154, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 22}</string>
+			<key>spriteSize</key>
+			<string>{154, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{754, 1588}, {154, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 21}, {156, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 23}</string>
+			<key>spriteSize</key>
+			<string>{156, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1562}, {156, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 20}, {158, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 25}</string>
+			<key>spriteSize</key>
+			<string>{158, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1418}, {158, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 19}, {162, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 26}</string>
+			<key>spriteSize</key>
+			<string>{162, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 1066}, {162, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 19}, {160, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 26}</string>
+			<key>spriteSize</key>
+			<string>{160, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1166, 996}, {160, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 19}, {160, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 25}</string>
+			<key>spriteSize</key>
+			<string>{160, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1426}, {160, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0018.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 20}, {158, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 24}</string>
+			<key>spriteSize</key>
+			<string>{158, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 1320}, {158, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 21}, {156, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 22}</string>
+			<key>spriteSize</key>
+			<string>{156, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 1466}, {156, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0022.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 22}, {154, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{154, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1156, 1410}, {154, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{45, 24}, {150, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 19}</string>
+			<key>spriteSize</key>
+			<string>{150, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1212, 1712}, {146, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 28}, {152, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 18}</string>
+			<key>spriteSize</key>
+			<string>{152, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{626, 1908}, {152, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 27}, {156, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 19}</string>
+			<key>spriteSize</key>
+			<string>{156, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1712}, {156, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 27}, {158, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 20}</string>
+			<key>spriteSize</key>
+			<string>{158, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1456, 1056}, {158, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0033.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 26}, {160, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{160, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 1098}, {160, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0035.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 25}, {162, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSize</key>
+			<string>{162, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1286}, {162, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0037.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 24}, {166, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 23}</string>
+			<key>spriteSize</key>
+			<string>{166, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 958}, {166, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0039.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 24}, {164, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 23}</string>
+			<key>spriteSize</key>
+			<string>{164, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 926}, {164, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0041.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 25}, {162, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 22}</string>
+			<key>spriteSize</key>
+			<string>{162, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1120}, {162, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0043.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 26}, {160, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{160, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 1188}, {160, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0045.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 26}, {158, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{158, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1572}, {158, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0047.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 27}, {156, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 20}</string>
+			<key>spriteSize</key>
+			<string>{156, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 1614}, {156, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0049.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 28}, {152, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 18}</string>
+			<key>spriteSize</key>
+			<string>{152, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1070, 1712}, {140, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 29}, {150, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 17}</string>
+			<key>spriteSize</key>
+			<string>{150, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1506, 1710}, {140, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0054.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 23}, {162, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{162, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1140}, {162, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0056.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 23}, {168, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{168, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1456, 910}, {168, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0058.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 23}, {170, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 22}</string>
+			<key>spriteSize</key>
+			<string>{170, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1184, 852}, {170, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0063.png</string>
+				<string>Boss_Efreeti_0061.png</string>
+				<string>Boss_Efreeti_0062.png</string>
+				<string>Boss_Efreeti_0064.png</string>
+				<string>Boss_Efreeti_0060.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {172, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 22}</string>
+			<key>spriteSize</key>
+			<string>{172, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1188, 708}, {172, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0066.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 23}, {190, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 22}</string>
+			<key>spriteSize</key>
+			<string>{190, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1456, 514}, {190, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0068.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 23}, {190, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 21}</string>
+			<key>spriteSize</key>
+			<string>{190, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1904, 0}, {144, 190}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0070.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {188, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 21}</string>
+			<key>spriteSize</key>
+			<string>{188, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1904, 192}, {144, 188}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0072.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {188, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 21}</string>
+			<key>spriteSize</key>
+			<string>{188, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1238, 562}, {188, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0074.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {188, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 21}</string>
+			<key>spriteSize</key>
+			<string>{188, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 656}, {188, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0082.png</string>
+				<string>Boss_Efreeti_0084.png</string>
+				<string>Boss_Efreeti_0085.png</string>
+				<string>Boss_Efreeti_0083.png</string>
+				<string>Boss_Efreeti_0076.png</string>
+				<string>Boss_Efreeti_0077.png</string>
+				<string>Boss_Efreeti_0081.png</string>
+				<string>Boss_Efreeti_0078.png</string>
+				<string>Boss_Efreeti_0080.png</string>
+				<string>Boss_Efreeti_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {188, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 21}</string>
+			<key>spriteSize</key>
+			<string>{188, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1456, 658}, {188, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0087.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 23}, {162, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{162, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 1042}, {162, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0090.png</string>
+				<string>Boss_Efreeti_0126.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 23}, {152, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 20}</string>
+			<key>spriteSize</key>
+			<string>{152, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 1730}, {146, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0092.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 23}, {168, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 21}</string>
+			<key>spriteSize</key>
+			<string>{168, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1684, 974}, {168, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0094.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 23}, {172, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 21}</string>
+			<key>spriteSize</key>
+			<string>{172, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 994}, {172, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0096.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 22}, {176, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 22}</string>
+			<key>spriteSize</key>
+			<string>{176, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1872, 744}, {176, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0098.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{27, 22}, {178, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 22}</string>
+			<key>spriteSize</key>
+			<string>{178, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 848}, {178, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0099.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0100.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 22}, {182, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 23}</string>
+			<key>spriteSize</key>
+			<string>{182, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 670}, {182, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0101.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0102.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 22}, {184, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 23}</string>
+			<key>spriteSize</key>
+			<string>{184, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 682}, {184, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0104.png</string>
+				<string>Boss_Efreeti_0106.png</string>
+				<string>Boss_Efreeti_0105.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 22}, {184, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 23}</string>
+			<key>spriteSize</key>
+			<string>{184, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 514}, {184, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0107.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0108.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{67, 22}, {112, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 22}</string>
+			<key>spriteSize</key>
+			<string>{112, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1568, 1552}, {112, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0109.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0110.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{69, 25}, {114, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 21}</string>
+			<key>spriteSize</key>
+			<string>{114, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1754, 1272}, {140, 114}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0111.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0112.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{67, 22}, {116, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 22}</string>
+			<key>spriteSize</key>
+			<string>{116, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{244, 1932}, {144, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0113.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0114.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{68, 23}, {108, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 22}</string>
+			<key>spriteSize</key>
+			<string>{108, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1742, 1398}, {108, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0115.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0116.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{68, 23}, {108, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 22}</string>
+			<key>spriteSize</key>
+			<string>{108, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1610, 1288}, {142, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0117.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0118.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{68, 23}, {108, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 22}</string>
+			<key>spriteSize</key>
+			<string>{108, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1892, 1472}, {142, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0119.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0122.png</string>
+				<string>Boss_Efreeti_0123.png</string>
+				<string>Boss_Efreeti_0121.png</string>
+				<string>Boss_Efreeti_0120.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{68, 23}, {108, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 22}</string>
+			<key>spriteSize</key>
+			<string>{108, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1896, 1362}, {142, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0124.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0125.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 23}, {124, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 22}</string>
+			<key>spriteSize</key>
+			<string>{124, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1328, 1122}, {124, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0127.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0128.png</string>
+				<string>Boss_Efreeti_0129.png</string>
+				<string>Boss_Efreeti_0135.png</string>
+				<string>Boss_Efreeti_0134.png</string>
+				<string>Boss_Efreeti_0133.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 23}, {152, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 20}</string>
+			<key>spriteSize</key>
+			<string>{152, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 1888}, {146, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0130.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0132.png</string>
+				<string>Boss_Efreeti_0136.png</string>
+				<string>Boss_Efreeti_0131.png</string>
+				<string>Boss_Efreeti_0137.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{43, 22}, {154, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 21}</string>
+			<key>spriteSize</key>
+			<string>{154, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1454, 1196}, {154, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0140.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0141.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 22}, {150, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 22}</string>
+			<key>spriteSize</key>
+			<string>{150, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1422, 1558}, {144, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0142.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0143.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 20}, {150, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 23}</string>
+			<key>spriteSize</key>
+			<string>{150, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1076, 1866}, {146, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0144.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0145.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 24}, {150, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 21}</string>
+			<key>spriteSize</key>
+			<string>{150, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1312, 1414}, {150, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0146.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0147.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{53, 22}, {150, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 22}</string>
+			<key>spriteSize</key>
+			<string>{150, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1360, 1710}, {144, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0148.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0160.png</string>
+				<string>Boss_Efreeti_0153.png</string>
+				<string>Boss_Efreeti_0156.png</string>
+				<string>Boss_Efreeti_0155.png</string>
+				<string>Boss_Efreeti_0161.png</string>
+				<string>Boss_Efreeti_0166.png</string>
+				<string>Boss_Efreeti_0157.png</string>
+				<string>Boss_Efreeti_0152.png</string>
+				<string>Boss_Efreeti_0164.png</string>
+				<string>Boss_Efreeti_0151.png</string>
+				<string>Boss_Efreeti_0163.png</string>
+				<string>Boss_Efreeti_0165.png</string>
+				<string>Boss_Efreeti_0158.png</string>
+				<string>Boss_Efreeti_0149.png</string>
+				<string>Boss_Efreeti_0150.png</string>
+				<string>Boss_Efreeti_0162.png</string>
+				<string>Boss_Efreeti_0167.png</string>
+				<string>Boss_Efreeti_0159.png</string>
+				<string>Boss_Efreeti_0154.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{52, 23}, {150, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 22}</string>
+			<key>spriteSize</key>
+			<string>{150, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1372, 1862}, {142, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0168.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0192.png</string>
+				<string>Boss_Efreeti_0175.png</string>
+				<string>Boss_Efreeti_0180.png</string>
+				<string>Boss_Efreeti_0170.png</string>
+				<string>Boss_Efreeti_0169.png</string>
+				<string>Boss_Efreeti_0193.png</string>
+				<string>Boss_Efreeti_0176.png</string>
+				<string>Boss_Efreeti_0181.png</string>
+				<string>Boss_Efreeti_0174.png</string>
+				<string>Boss_Efreeti_0182.png</string>
+				<string>Boss_Efreeti_0187.png</string>
+				<string>Boss_Efreeti_0188.png</string>
+				<string>Boss_Efreeti_0186.png</string>
+				<string>Boss_Efreeti_0194.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 12}, {170, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 27}</string>
+			<key>spriteSize</key>
+			<string>{170, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1872, 960}, {170, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0171.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0185.png</string>
+				<string>Boss_Efreeti_0184.png</string>
+				<string>Boss_Efreeti_0173.png</string>
+				<string>Boss_Efreeti_0191.png</string>
+				<string>Boss_Efreeti_0179.png</string>
+				<string>Boss_Efreeti_0183.png</string>
+				<string>Boss_Efreeti_0178.png</string>
+				<string>Boss_Efreeti_0190.png</string>
+				<string>Boss_Efreeti_0177.png</string>
+				<string>Boss_Efreeti_0172.png</string>
+				<string>Boss_Efreeti_0189.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 11}, {170, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 28}</string>
+			<key>spriteSize</key>
+			<string>{170, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 802}, {170, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0195.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0196.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{33, 12}, {170, 198}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 5}</string>
+			<key>spriteSize</key>
+			<string>{170, 198}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1238, 390}, {198, 170}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0197.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0198.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 10}, {186, 206}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 3}</string>
+			<key>spriteSize</key>
+			<string>{186, 206}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 310}, {206, 186}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0199.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0200.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 4}, {194, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 5}</string>
+			<key>spriteSize</key>
+			<string>{194, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1688, 94}, {214, 194}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0201.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0202.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 1}, {200, 220}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 5}</string>
+			<key>spriteSize</key>
+			<string>{200, 220}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1466, 94}, {220, 200}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_0203.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0204.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 1}, {218, 216}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 7}</string>
+			<key>spriteSize</key>
+			<string>{218, 216}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1464, 296}, {218, 216}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0205.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 1}, {236, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{236, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 200}, {236, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0206.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 1}, {236, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{236, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 186}, {236, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0207.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0208.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 2}, {216, 216}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 6}</string>
+			<key>spriteSize</key>
+			<string>{216, 216}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1684, 496}, {216, 216}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0209.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_0210.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 15}, {212, 204}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{212, 204}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1688, 290}, {212, 204}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_0211.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 15}, {184, 198}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, 2}</string>
+			<key>spriteSize</key>
+			<string>{184, 198}</string>
+			<key>spriteSourceSize</key>
+			<string>{240, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 496}, {198, 184}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{84, 132}, {86, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -34}</string>
+			<key>spriteSize</key>
+			<string>{86, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1646, 664}, {36, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{86, 131}, {84, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -31}</string>
+			<key>spriteSize</key>
+			<string>{84, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 350}, {32, 84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{88, 130}, {80, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -31}</string>
+			<key>spriteSize</key>
+			<string>{80, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{744, 352}, {34, 80}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{89, 136}, {76, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -39}</string>
+			<key>spriteSize</key>
+			<string>{76, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 794}, {76, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{112, 138}, {52, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -38}</string>
+			<key>spriteSize</key>
+			<string>{52, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1258, 2016}, {52, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_CloudBubbles_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudBubbles_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{83, 134}, {88, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -36}</string>
+			<key>spriteSize</key>
+			<string>{88, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{742, 434}, {36, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 122}, {158, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -60}</string>
+			<key>spriteSize</key>
+			<string>{158, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 1238}, {158, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 121}, {160, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -59}</string>
+			<key>spriteSize</key>
+			<string>{160, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{528, 1210}, {160, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 119}, {158, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -58}</string>
+			<key>spriteSize</key>
+			<string>{158, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1160, 1140}, {158, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 128}, {158, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -63}</string>
+			<key>spriteSize</key>
+			<string>{158, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{162, 1486}, {102, 158}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 130}, {158, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -64}</string>
+			<key>spriteSize</key>
+			<string>{158, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 1176}, {100, 158}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_CloudDown_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_CloudDown_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 125}, {158, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -61}</string>
+			<key>spriteSize</key>
+			<string>{158, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{762, 1328}, {158, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 122}, {164, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -60}</string>
+			<key>spriteSize</key>
+			<string>{164, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1010}, {164, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 121}, {168, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -60}</string>
+			<key>spriteSize</key>
+			<string>{168, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 826}, {168, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 119}, {174, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -58}</string>
+			<key>spriteSize</key>
+			<string>{174, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{530, 814}, {174, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{36, 127}, {168, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -62}</string>
+			<key>spriteSize</key>
+			<string>{168, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 938}, {168, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{32, 129}, {172, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -63}</string>
+			<key>spriteSize</key>
+			<string>{172, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1684, 872}, {172, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Cloud_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Cloud_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 125}, {172, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -61}</string>
+			<key>spriteSize</key>
+			<string>{172, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{244, 232}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1456, 804}, {172, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 20}, {72, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{72, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 834}, {74, 72}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 12}, {94, 88}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{94, 88}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{426, 1478}, {94, 88}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 7}, {100, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -0}</string>
+			<key>spriteSize</key>
+			<string>{100, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 1014}, {94, 100}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 4}, {104, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 1714}, {102, 104}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {102, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{102, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1356, 904}, {98, 102}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 5}, {100, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{100, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 1376}, {96, 100}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_ExplosionCloud_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_ExplosionCloud_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 5}, {88, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 2}</string>
+			<key>spriteSize</key>
+			<string>{88, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 1116}, {94, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 16}, {50, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 35}</string>
+			<key>spriteSize</key>
+			<string>{50, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1680, 2012}, {50, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 13}, {50, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 38}</string>
+			<key>spriteSize</key>
+			<string>{50, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1428, 710}, {26, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 9}, {50, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 42}</string>
+			<key>spriteSize</key>
+			<string>{50, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1628, 2014}, {50, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 9}, {48, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 41}</string>
+			<key>spriteSize</key>
+			<string>{48, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1528, 2014}, {48, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 12}, {48, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 38}</string>
+			<key>spriteSize</key>
+			<string>{48, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1578, 2014}, {48, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 22}, {48, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 28}</string>
+			<key>spriteSize</key>
+			<string>{48, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1478, 2014}, {48, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 38}, {48, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 11}</string>
+			<key>spriteSize</key>
+			<string>{48, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1076, 2018}, {48, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 61}, {46, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{46, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1126, 2018}, {46, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Lamp_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 90}, {48, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -43}</string>
+			<key>spriteSize</key>
+			<string>{48, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 570}, {34, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Lamp_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 93}, {50, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -44}</string>
+			<key>spriteSize</key>
+			<string>{50, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{966, 724}, {30, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_Lamp_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_Lamp_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 93}, {48, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -44}</string>
+			<key>spriteSize</key>
+			<string>{48, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{966, 776}, {30, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 22}, {116, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{116, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{508, 1922}, {116, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {142, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{142, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1600, 1398}, {140, 142}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {150, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{150, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1224, 1864}, {146, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {156, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{156, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 1348}, {156, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {154, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{154, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1708}, {154, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {152, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{152, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{618, 1754}, {150, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 2}, {134, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 5}</string>
+			<key>spriteSize</key>
+			<string>{134, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1464, 1404}, {134, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 48}, {96, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -13}</string>
+			<key>spriteSize</key>
+			<string>{96, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 1078}, {90, 96}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0017.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 22}, {116, 122}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{116, 122}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 1926}, {116, 122}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {142, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{142, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1682, 1542}, {140, 142}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {142, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{142, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 1698}, {140, 142}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0021.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 5}, {150, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 2}</string>
+			<key>spriteSize</key>
+			<string>{150, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1274, 1558}, {146, 150}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0023.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {156, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{156, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1158, 1252}, {156, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {154, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{154, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1684, 1120}, {154, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 2}, {152, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{152, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 1734}, {150, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Boss_Efreeti_PolyTower_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Boss_Efreeti_PolyTower_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{18, 2}, {134, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 5}</string>
+			<key>spriteSize</key>
+			<string>{134, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1316, 1266}, {134, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0032.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {50, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1824, 1682}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0003.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {50, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{530, 1818}, {50, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0030.png</string>
+				<string>Stage3_Camel_0005.png</string>
+				<string>Stage3_Camel_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {50, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2008, 1692}, {38, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Camel_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0007.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {50, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1824, 1642}, {50, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0009.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1852, 1496}, {38, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Camel_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0012.png</string>
+				<string>Stage3_Camel_0013.png</string>
+				<string>Stage3_Camel_0011.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{422, 1820}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0015.png</string>
+				<string>Stage3_Camel_0017.png</string>
+				<string>Stage3_Camel_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1852, 1388}, {38, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Camel_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0019.png</string>
+				<string>Stage3_Camel_0020.png</string>
+				<string>Stage3_Camel_0021.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1880, 1230}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0024.png</string>
+				<string>Stage3_Camel_0025.png</string>
+				<string>Stage3_Camel_0023.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1852, 1442}, {38, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Camel_0026.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0027.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {52, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{52, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{476, 1820}, {52, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Camel_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Camel_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 1}, {50, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2008, 1744}, {38, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 86}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -39}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 1786}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0003.png</string>
+				<string>Stage3_Vulture_0040.png</string>
+				<string>Stage3_Vulture_0041.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 87}, {30, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -39}</string>
+			<key>spriteSize</key>
+			<string>{30, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1448, 2014}, {28, 30}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0005.png</string>
+				<string>Stage3_Vulture_0038.png</string>
+				<string>Stage3_Vulture_0039.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 87}, {34, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -39}</string>
+			<key>spriteSize</key>
+			<string>{34, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1418, 2014}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0037.png</string>
+				<string>Stage3_Vulture_0007.png</string>
+				<string>Stage3_Vulture_0036.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 85}, {36, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -38}</string>
+			<key>spriteSize</key>
+			<string>{36, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 436}, {36, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0031.png</string>
+				<string>Stage3_Vulture_0035.png</string>
+				<string>Stage3_Vulture_0013.png</string>
+				<string>Stage3_Vulture_0025.png</string>
+				<string>Stage3_Vulture_0016.png</string>
+				<string>Stage3_Vulture_0017.png</string>
+				<string>Stage3_Vulture_0012.png</string>
+				<string>Stage3_Vulture_0020.png</string>
+				<string>Stage3_Vulture_0024.png</string>
+				<string>Stage3_Vulture_0030.png</string>
+				<string>Stage3_Vulture_0009.png</string>
+				<string>Stage3_Vulture_0034.png</string>
+				<string>Stage3_Vulture_0021.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 84}, {36, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -38}</string>
+			<key>spriteSize</key>
+			<string>{36, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1646, 788}, {36, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0026.png</string>
+				<string>Stage3_Vulture_0014.png</string>
+				<string>Stage3_Vulture_0022.png</string>
+				<string>Stage3_Vulture_0015.png</string>
+				<string>Stage3_Vulture_0027.png</string>
+				<string>Stage3_Vulture_0011.png</string>
+				<string>Stage3_Vulture_0033.png</string>
+				<string>Stage3_Vulture_0019.png</string>
+				<string>Stage3_Vulture_0023.png</string>
+				<string>Stage3_Vulture_0028.png</string>
+				<string>Stage3_Vulture_0032.png</string>
+				<string>Stage3_Vulture_0018.png</string>
+				<string>Stage3_Vulture_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 83}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -37}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 538}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 86}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -39}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1386, 2014}, {30, 34}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0044.png</string>
+				<string>Stage3_Vulture_0093.png</string>
+				<string>Stage3_Vulture_0094.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 84}, {32, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -38}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1352, 2016}, {32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0046.png</string>
+				<string>Stage3_Vulture_0091.png</string>
+				<string>Stage3_Vulture_0092.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 83}, {34, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -37}</string>
+			<key>spriteSize</key>
+			<string>{34, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 504}, {34, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0048.png</string>
+				<string>Stage3_Vulture_0090.png</string>
+				<string>Stage3_Vulture_0089.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 82}, {36, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -37}</string>
+			<key>spriteSize</key>
+			<string>{36, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1646, 752}, {36, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0087.png</string>
+				<string>Stage3_Vulture_0088.png</string>
+				<string>Stage3_Vulture_0050.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 70}, {48, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -31}</string>
+			<key>spriteSize</key>
+			<string>{48, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 1032}, {46, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0085.png</string>
+				<string>Stage3_Vulture_0086.png</string>
+				<string>Stage3_Vulture_0052.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 62}, {34, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -27}</string>
+			<key>spriteSize</key>
+			<string>{34, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 514}, {34, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0054.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 64}, {46, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -28}</string>
+			<key>spriteSize</key>
+			<string>{46, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 978}, {46, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0056.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 64}, {32, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -31}</string>
+			<key>spriteSize</key>
+			<string>{32, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1204, 540}, {32, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0058.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 48}, {24, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -20}</string>
+			<key>spriteSize</key>
+			<string>{24, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 412}, {24, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0060.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 43}, {50, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -17}</string>
+			<key>spriteSize</key>
+			<string>{50, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{706, 914}, {72, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0080.png</string>
+				<string>Stage3_Vulture_0062.png</string>
+				<string>Stage3_Vulture_0079.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 21}, {38, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{38, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 1674}, {94, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0063.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0064.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 30}, {46, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -11}</string>
+			<key>spriteSize</key>
+			<string>{46, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 766}, {86, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0066.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 15}, {32, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{32, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 248}, {32, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0067.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0068.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 7}, {24, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{24, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 302}, {24, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0069.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0070.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 2}, {24, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{24, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{510, 186}, {24, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0071.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0072.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 2}, {26, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{26, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1428, 594}, {26, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0074.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 11}, {48, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{48, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{158, 1754}, {104, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0075.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0076.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 17}, {50, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{50, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 1324}, {98, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0078.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 18}, {46, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{46, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 514}, {46, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage3_Vulture_0081.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0082.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 32}, {38, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -12}</string>
+			<key>spriteSize</key>
+			<string>{38, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 966}, {84, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0083.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage3_Vulture_0084.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 47}, {38, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -19}</string>
+			<key>spriteSize</key>
+			<string>{38, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 1636}, {68, 38}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage3_Vulture_0095.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 86}, {34, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -39}</string>
+			<key>spriteSize</key>
+			<string>{34, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 1754}, {34, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_MountainTop.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 7}, {84, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -2}</string>
+			<key>spriteSize</key>
+			<string>{84, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{92, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 986}, {84, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 15}, {170, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 77}</string>
+			<key>spriteSize</key>
+			<string>{170, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 814}, {84, 170}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{62, 13}, {184, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 79}</string>
+			<key>spriteSize</key>
+			<string>{184, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 658}, {184, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{58, 12}, {194, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 80}</string>
+			<key>spriteSize</key>
+			<string>{194, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{998, 570}, {194, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{53, 10}, {204, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 82}</string>
+			<key>spriteSize</key>
+			<string>{204, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 424}, {204, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 9}, {212, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 83}</string>
+			<key>spriteSize</key>
+			<string>{212, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 304}, {212, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 8}, {218, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 84}</string>
+			<key>spriteSize</key>
+			<string>{218, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1010, 224}, {218, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{44, 8}, {224, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 84}</string>
+			<key>spriteSize</key>
+			<string>{224, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 190}, {224, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{42, 7}, {228, 86}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 84}</string>
+			<key>spriteSize</key>
+			<string>{228, 86}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 186}, {228, 86}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{40, 7}, {232, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 85}</string>
+			<key>spriteSize</key>
+			<string>{232, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 428}, {232, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 11}, {44, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1854, 1060}, {10, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1858, 968}, {12, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1170, 940}, {12, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1170, 802}, {12, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 9}, {46, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 200}, {14, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 9}, {46, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 274}, {14, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_0039.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 9}, {46, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 546}, {14, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 9}, {48, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 198}, {14, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 8}, {48, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 576}, {16, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 8}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{988, 370}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 8}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 488}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 7}, {52, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 65}</string>
+			<key>spriteSize</key>
+			<string>{52, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{762, 190}, {16, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{87, 7}, {52, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{52, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 382}, {18, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 7}, {52, 18}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{52, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 298}, {18, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 7}, {52, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 65}</string>
+			<key>spriteSize</key>
+			<string>{52, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{762, 244}, {16, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 7}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 65}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 436}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 8}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{988, 422}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 8}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 494}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 8}, {50, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{50, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{988, 474}, {16, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 8}, {48, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 626}, {16, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 8}, {48, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 526}, {16, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 9}, {48, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 98}, {14, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 9}, {48, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{48, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 148}, {14, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_0029.png</string>
+				<string>Stage5_door_eyes_0031.png</string>
+				<string>Stage5_door_eyes_0038.png</string>
+				<string>Stage5_door_eyes_0027.png</string>
+				<string>Stage5_door_eyes_0028.png</string>
+				<string>Stage5_door_eyes_0032.png</string>
+				<string>Stage5_door_eyes_0036.png</string>
+				<string>Stage5_door_eyes_0037.png</string>
+				<string>Stage5_door_eyes_0035.png</string>
+				<string>Stage5_door_eyes_0034.png</string>
+				<string>Stage5_door_eyes_0030.png</string>
+				<string>Stage5_door_eyes_0033.png</string>
+				<string>Stage5_door_eyes_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 9}, {46, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 322}, {14, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 11}, {44, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1230, 224}, {10, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 65}</string>
+			<key>spriteSize</key>
+			<string>{44, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 310}, {10, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1170, 894}, {12, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 10}, {46, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{980, 676}, {12, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_0080.png</string>
+				<string>Stage5_door_eyes_0084.png</string>
+				<string>Stage5_door_eyes_0073.png</string>
+				<string>Stage5_door_eyes_0064.png</string>
+				<string>Stage5_door_eyes_0061.png</string>
+				<string>Stage5_door_eyes_0076.png</string>
+				<string>Stage5_door_eyes_0045.png</string>
+				<string>Stage5_door_eyes_0068.png</string>
+				<string>Stage5_door_eyes_0053.png</string>
+				<string>Stage5_door_eyes_0069.png</string>
+				<string>Stage5_door_eyes_0052.png</string>
+				<string>Stage5_door_eyes_0049.png</string>
+				<string>Stage5_door_eyes_0065.png</string>
+				<string>Stage5_door_eyes_0072.png</string>
+				<string>Stage5_door_eyes_0077.png</string>
+				<string>Stage5_door_eyes_0060.png</string>
+				<string>Stage5_door_eyes_0056.png</string>
+				<string>Stage5_door_eyes_0057.png</string>
+				<string>Stage5_door_eyes_0081.png</string>
+				<string>Stage5_door_eyes_0048.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 3}, {128, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 2}</string>
+			<key>spriteSize</key>
+			<string>{128, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1516, 1862}, {128, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_0051.png</string>
+				<string>Stage5_door_eyes_0067.png</string>
+				<string>Stage5_door_eyes_0050.png</string>
+				<string>Stage5_door_eyes_0059.png</string>
+				<string>Stage5_door_eyes_0058.png</string>
+				<string>Stage5_door_eyes_0074.png</string>
+				<string>Stage5_door_eyes_0079.png</string>
+				<string>Stage5_door_eyes_0055.png</string>
+				<string>Stage5_door_eyes_0075.png</string>
+				<string>Stage5_door_eyes_0078.png</string>
+				<string>Stage5_door_eyes_0063.png</string>
+				<string>Stage5_door_eyes_0071.png</string>
+				<string>Stage5_door_eyes_0066.png</string>
+				<string>Stage5_door_eyes_0047.png</string>
+				<string>Stage5_door_eyes_0083.png</string>
+				<string>Stage5_door_eyes_0070.png</string>
+				<string>Stage5_door_eyes_0062.png</string>
+				<string>Stage5_door_eyes_0054.png</string>
+				<string>Stage5_door_eyes_0082.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 1}, {130, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 5}</string>
+			<key>spriteSize</key>
+			<string>{130, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1646, 1862}, {130, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 3}, {114, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{114, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1778, 1924}, {130, 114}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 3}, {114, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{114, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1934, 1230}, {114, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_0087.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 3}, {114, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{114, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1876, 1692}, {130, 114}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 3}, {114, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{114, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1838, 1808}, {130, 114}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0089.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 10}, {46, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1858, 872}, {12, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 10}, {46, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1858, 920}, {12, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0091.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 10}, {46, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{46, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{706, 814}, {12, 46}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0092.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 10}, {44, 12}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 12}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1170, 848}, {12, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0093.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 11}, {44, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1230, 270}, {10, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_0094.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 11}, {44, 10}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 64}</string>
+			<key>spriteSize</key>
+			<string>{44, 10}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1854, 1014}, {10, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0055.png</string>
+				<string>Stage5_door_eyes_effect_0051.png</string>
+				<string>Stage5_door_eyes_effect_0048.png</string>
+				<string>Stage5_door_eyes_effect_0049.png</string>
+				<string>Stage5_door_eyes_effect_0047.png</string>
+				<string>Stage5_door_eyes_effect_0050.png</string>
+				<string>Stage5_door_eyes_effect_0056.png</string>
+				<string>Stage5_door_eyes_effect_0052.png</string>
+				<string>Stage5_door_eyes_effect_0004.png</string>
+				<string>Stage5_door_eyes_effect_0053.png</string>
+				<string>Stage5_door_eyes_effect_0003.png</string>
+				<string>Stage5_door_eyes_effect_0054.png</string>
+				<string>Stage5_door_eyes_effect_0005.png</string>
+				<string>Stage5_door_eyes_effect_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {156, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{156, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 1260}, {160, 156}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0033.png</string>
+				<string>Stage5_door_eyes_effect_0034.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 99}, {90, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{90, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{158, 1804}, {90, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0035.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 99}, {92, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{92, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1362, 842}, {92, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0036.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 107}, {72, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{72, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 1052}, {72, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0037.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 107}, {74, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{74, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 1006}, {74, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0038.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 106}, {74, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{74, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 902}, {46, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0039.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 106}, {76, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{76, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 718}, {76, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0040.png</string>
+				<string>Stage5_door_eyes_effect_0025.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 105}, {78, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{78, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 668}, {78, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0041.png</string>
+				<string>Stage5_door_eyes_effect_0026.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 104}, {80, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{80, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 690}, {80, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0042.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 103}, {80, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -49}</string>
+			<key>spriteSize</key>
+			<string>{80, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 636}, {80, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0043.png</string>
+				<string>Stage5_door_eyes_effect_0028.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 103}, {82, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{82, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{186, 614}, {82, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0029.png</string>
+				<string>Stage5_door_eyes_effect_0044.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 102}, {84, 54}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{84, 54}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 908}, {84, 54}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0045.png</string>
+				<string>Stage5_door_eyes_effect_0030.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 101}, {86, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{86, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{722, 612}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0046.png</string>
+				<string>Stage5_door_eyes_effect_0031.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 101}, {86, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -49}</string>
+			<key>spriteSize</key>
+			<string>{86, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{722, 524}, {56, 86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_eyes_effect_0032.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 100}, {88, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -49}</string>
+			<key>spriteSize</key>
+			<string>{88, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{720, 700}, {58, 88}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 99}, {90, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{90, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 1866}, {60, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 98}, {92, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{92, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1362, 778}, {92, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 107}, {72, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -49}</string>
+			<key>spriteSize</key>
+			<string>{72, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 1098}, {72, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 106}, {74, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{74, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{950, 826}, {46, 74}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 106}, {76, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -49}</string>
+			<key>spriteSize</key>
+			<string>{76, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{458, 588}, {76, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_eyes_effect_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 104}, {80, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -49}</string>
+			<key>spriteSize</key>
+			<string>{80, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 742}, {80, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_floor_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_floor_0027.png</string>
+				<string>Stage5_door_floor_0008.png</string>
+				<string>Stage5_door_floor_0024.png</string>
+				<string>Stage5_door_floor_0017.png</string>
+				<string>Stage5_door_floor_0010.png</string>
+				<string>Stage5_door_floor_0013.png</string>
+				<string>Stage5_door_floor_0025.png</string>
+				<string>Stage5_door_floor_0021.png</string>
+				<string>Stage5_door_floor_0006.png</string>
+				<string>Stage5_door_floor_0018.png</string>
+				<string>Stage5_door_floor_0012.png</string>
+				<string>Stage5_door_floor_0022.png</string>
+				<string>Stage5_door_floor_0007.png</string>
+				<string>Stage5_door_floor_0014.png</string>
+				<string>Stage5_door_floor_0020.png</string>
+				<string>Stage5_door_floor_0011.png</string>
+				<string>Stage5_door_floor_0023.png</string>
+				<string>Stage5_door_floor_0016.png</string>
+				<string>Stage5_door_floor_0009.png</string>
+				<string>Stage5_door_floor_0002.png</string>
+				<string>Stage5_door_floor_0019.png</string>
+				<string>Stage5_door_floor_0003.png</string>
+				<string>Stage5_door_floor_0005.png</string>
+				<string>Stage5_door_floor_0004.png</string>
+				<string>Stage5_door_floor_0026.png</string>
+				<string>Stage5_door_floor_0015.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 188}, {172, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-32, -88}</string>
+			<key>spriteSize</key>
+			<string>{172, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{312, 268}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1872, 890}, {172, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_mountain.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{5, 0}, {90, 230}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 5}</string>
+			<key>spriteSize</key>
+			<string>{90, 230}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 240}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 94}, {230, 90}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_smoke_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{41, 40}, {100, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -10}</string>
+			<key>spriteSize</key>
+			<string>{100, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 1568}, {100, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_smoke_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 19}, {152, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -1}</string>
+			<key>spriteSize</key>
+			<string>{152, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1144, 1558}, {128, 152}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_smoke_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 7}, {172, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 1}</string>
+			<key>spriteSize</key>
+			<string>{172, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 860}, {172, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_smoke_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 2}, {184, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{184, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 510}, {184, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_smoke_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 3}, {186, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{186, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1684, 714}, {186, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_smoke_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {182, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{182, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 618}, {182, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_smoke_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_smoke_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {180, 84}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 40}</string>
+			<key>spriteSize</key>
+			<string>{180, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{188, 164}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 774}, {180, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_statue_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {104, 186}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 1}</string>
+			<key>spriteSize</key>
+			<string>{104, 186}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 188}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 414}, {186, 104}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_statue_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 80}, {104, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -39}</string>
+			<key>spriteSize</key>
+			<string>{104, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 188}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{160, 1646}, {104, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_statue_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 111}, {104, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -54}</string>
+			<key>spriteSize</key>
+			<string>{104, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{112, 188}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 482}, {74, 104}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_stones_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 15}, {156, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 21}</string>
+			<key>spriteSize</key>
+			<string>{156, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 1434}, {156, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 5}, {170, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 34}</string>
+			<key>spriteSize</key>
+			<string>{170, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1902, 572}, {146, 170}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_stones_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 5}, {188, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 34}</string>
+			<key>spriteSize</key>
+			<string>{188, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1902, 382}, {146, 188}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Stage5_door_stones_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 38}, {206, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -1}</string>
+			<key>spriteSize</key>
+			<string>{206, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 344}, {206, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 63}, {220, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -20}</string>
+			<key>spriteSize</key>
+			<string>{220, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 164}, {220, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 87}, {228, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -39}</string>
+			<key>spriteSize</key>
+			<string>{228, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1012, 94}, {228, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 120}, {242, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -55}</string>
+			<key>spriteSize</key>
+			<string>{242, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 94}, {242, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 123}, {254, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -61}</string>
+			<key>spriteSize</key>
+			<string>{254, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 98}, {254, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0018.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{5, 126}, {262, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -59}</string>
+			<key>spriteSize</key>
+			<string>{262, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 94}, {262, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 127}, {270, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -63}</string>
+			<key>spriteSize</key>
+			<string>{270, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {270, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0022.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{272, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0031.png</string>
+				<string>Stage5_door_stones_0024.png</string>
+				<string>Stage5_door_stones_0034.png</string>
+				<string>Stage5_door_stones_0025.png</string>
+				<string>Stage5_door_stones_0033.png</string>
+				<string>Stage5_door_stones_0026.png</string>
+				<string>Stage5_door_stones_0030.png</string>
+				<string>Stage5_door_stones_0028.png</string>
+				<string>Stage5_door_stones_0032.png</string>
+				<string>Stage5_door_stones_0027.png</string>
+				<string>Stage5_door_stones_0029.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1360, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0036.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1088, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0038.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{544, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>Stage5_door_stones_0040.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1632, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 130}, {270, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -64}</string>
+			<key>spriteSize</key>
+			<string>{270, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{276, 224}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{816, 0}, {270, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{50, 12}, {126, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 16}</string>
+			<key>spriteSize</key>
+			<string>{126, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1328, 1008}, {126, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{47, 4}, {138, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 26}</string>
+			<key>spriteSize</key>
+			<string>{138, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1876, 1582}, {138, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{41, 4}, {154, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 26}</string>
+			<key>spriteSize</key>
+			<string>{154, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1854}, {154, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{35, 28}, {168, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -0}</string>
+			<key>spriteSize</key>
+			<string>{168, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1854, 1116}, {168, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 47}, {180, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -14}</string>
+			<key>spriteSize</key>
+			<string>{180, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 744}, {180, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 65}, {186, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -29}</string>
+			<key>spriteSize</key>
+			<string>{186, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 520}, {186, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{18, 89}, {196, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -40}</string>
+			<key>spriteSize</key>
+			<string>{196, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1006, 498}, {196, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{13, 92}, {206, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -45}</string>
+			<key>spriteSize</key>
+			<string>{206, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 348}, {206, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 94}, {212, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -44}</string>
+			<key>spriteSize</key>
+			<string>{212, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 274}, {212, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 94}, {222, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -45}</string>
+			<key>spriteSize</key>
+			<string>{222, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{536, 276}, {222, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Stage5_door_stones_2_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 96}, {222, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -46}</string>
+			<key>spriteSize</key>
+			<string>{222, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{228, 168}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1242, 94}, {222, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>alert_creep_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 1}, {116, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{116, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 100}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 1206}, {96, 116}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>boss_corps_efreeti.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 2}, {148, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{148, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{152, 104}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 1336}, {100, 148}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 1320}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 4}, {52, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1630, 896}, {52, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 6}, {52, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 1214}, {70, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 5}, {52, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 1144}, {70, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 6}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1610, 1234}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0012.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{918, 1528}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0014.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 1354}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0016.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 4}, {50, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{50, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{706, 862}, {72, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0018.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 1302}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0020.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 1406}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0022.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{926, 1268}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0024.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 6}, {48, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{48, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 1372}, {70, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0026.png</string>
+				<string>desertEfreeti_0048.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{690, 1250}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0028.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 4}, {52, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -2}</string>
+			<key>spriteSize</key>
+			<string>{52, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1630, 822}, {52, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0029.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0030.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 8}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -4}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 1642}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0032.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {54, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 1586}, {68, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{7, 7}, {54, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1626, 1030}, {54, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 8}, {54, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 1964}, {54, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {54, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{54, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{918, 1472}, {68, 54}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {60, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{60, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 1524}, {68, 60}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 6}, {58, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{720, 790}, {58, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0038.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{12, 8}, {62, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{62, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 1082}, {62, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0039.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 8}, {64, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{64, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{688, 1458}, {68, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 8}, {64, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{64, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1362, 708}, {64, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 10}, {66, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{66, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1616, 1100}, {66, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 10}, {64, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -5}</string>
+			<key>spriteSize</key>
+			<string>{64, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1964}, {64, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 10}, {64, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4}</string>
+			<key>spriteSize</key>
+			<string>{64, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 1958}, {64, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0044.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 10}, {52, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{52, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{398, 1860}, {52, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0045.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 10}, {54, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{54, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 1860}, {54, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{684, 1696}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 7}, {52, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -3}</string>
+			<key>spriteSize</key>
+			<string>{52, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{918, 1582}, {68, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0050.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 19}, {46, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -4}</string>
+			<key>spriteSize</key>
+			<string>{46, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1790, 1768}, {46, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0052.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 13}, {58, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{58, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1626, 970}, {56, 58}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0054.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 10}, {64, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{64, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 1866}, {60, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0056.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 8}, {66, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{66, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1616, 1168}, {66, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0057.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0058.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 9}, {64, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{64, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 1860}, {60, 64}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>desertEfreeti_0059.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>desertEfreeti_0060.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 9}, {62, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{62, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{934, 1152}, {62, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>desertEfreeti_0061.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 9}, {54, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -0}</string>
+			<key>spriteSize</key>
+			<string>{54, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 1860}, {54, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire_boss_type1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>fire_boss_type1_0002.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 12}, {54, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -1}</string>
+			<key>spriteSize</key>
+			<string>{54, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 1754}, {54, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire_boss_type1_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>fire_boss_type1_0004.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 10}, {54, 60}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{54, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 1860}, {54, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire_boss_type1_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>fire_boss_type1_0006.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 8}, {54, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{54, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 1964}, {54, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire_boss_type1_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>fire_boss_type1_0008.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 10}, {52, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{52, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 1860}, {52, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire_boss_type1_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+				<string>fire_boss_type1_0010.png</string>
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 15}, {48, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{48, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 84}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{460, 414}, {48, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 48}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -16}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 390}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 45}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -13}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 442}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 42}, {22, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -10}</string>
+			<key>spriteSize</key>
+			<string>{22, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1218, 356}, {22, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{9, 39}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -16}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1194, 654}, {42, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 36}, {52, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -13}</string>
+			<key>spriteSize</key>
+			<string>{52, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1194, 600}, {42, 52}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 33}, {52, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -15}</string>
+			<key>spriteSize</key>
+			<string>{52, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{910, 1676}, {52, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 30}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -12}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1556, 1344}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 27}, {50, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -9}</string>
+			<key>spriteSize</key>
+			<string>{50, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 1676}, {50, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 24}, {50, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -9}</string>
+			<key>spriteSize</key>
+			<string>{50, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1016, 1652}, {50, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 21}, {50, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -6}</string>
+			<key>spriteSize</key>
+			<string>{50, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1452, 1344}, {50, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 18}, {50, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -3}</string>
+			<key>spriteSize</key>
+			<string>{50, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1504, 1344}, {50, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{10, 15}, {50, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1068, 1652}, {50, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 12}, {48, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{48, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{442, 964}, {72, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 9}, {50, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{50, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 1198}, {70, 50}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {48, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 3}</string>
+			<key>spriteSize</key>
+			<string>{48, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{922, 1422}, {70, 48}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0016.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 21}, {44, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -2}</string>
+			<key>spriteSize</key>
+			<string>{44, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1824, 1550}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0017.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 18}, {44, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{44, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1824, 1596}, {50, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0018.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 15}, {44, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 5}</string>
+			<key>spriteSize</key>
+			<string>{44, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1790, 1722}, {48, 44}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 26}, {40, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 2}</string>
+			<key>spriteSize</key>
+			<string>{40, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{582, 1818}, {32, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 24}, {40, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 5}</string>
+			<key>spriteSize</key>
+			<string>{40, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1174, 2018}, {40, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 21}, {40, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 8}</string>
+			<key>spriteSize</key>
+			<string>{40, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1216, 2018}, {40, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{16, 19}, {26, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 11}</string>
+			<key>spriteSize</key>
+			<string>{26, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1872, 714}, {28, 26}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>healing_boss_type1_0023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 19}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 13}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 468}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>healing_boss_type1_0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 15}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 17}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1438, 416}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>poison_boss_type1_0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{19, 20}, {32, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 5}</string>
+			<key>spriteSize</key>
+			<string>{32, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1312, 2016}, {38, 32}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>poison_boss_type1_0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 16}, {34, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 7}</string>
+			<key>spriteSize</key>
+			<string>{34, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1648, 620}, {34, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>poison_boss_type1_0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{23, 22}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 5}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 468}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>poison_boss_type1_0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{22, 19}, {38, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 5}</string>
+			<key>spriteSize</key>
+			<string>{38, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1840, 1230}, {38, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>poison_boss_type1_0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{21, 13}, {38, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 9}</string>
+			<key>spriteSize</key>
+			<string>{38, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2008, 1796}, {38, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>poison_boss_type1_0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{20, 24}, {40, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 4}</string>
+			<key>spriteSize</key>
+			<string>{40, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 88}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 572}, {32, 40}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>HD - sprite_level5.zwd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>sprite_level5-hd.png</string>
+		<key>version</key>
+		<string>1.6.0</string>
+	</dict>
+</dict>
+</plist>
